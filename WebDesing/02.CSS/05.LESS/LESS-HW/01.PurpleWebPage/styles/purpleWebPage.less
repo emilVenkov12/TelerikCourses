@@ -1,0 +1,207 @@
+body,header, footer, section, ul, form, div, li, h1, h2, p {
+	margin:0;
+	padding:0;
+}
+.linear-gradient(@from-color,@to-color, @from-pos, @to-pos){
+	background: @from-color; /* Old browsers */
+	background: -moz-linear-gradient(top,  @from-color @from-pos, @to-color @to-pos); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(@from-pos,@from-color), color-stop(@to-pos,@to-color)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  @from-color @from-pos,@to-color @to-pos); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  @from-color @from-pos,@to-color @to-pos); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  @from-color @from-pos,@to-color @to-pos); /* IE10+ */
+	background: linear-gradient(to bottom,  @from-color @from-pos,@to-color @to-pos); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@{from-color}', endColorstr='@{to-color}',GradientType=0 ); /* IE6-9 */
+
+}
+.clearfix{
+	zoom:1;
+	&:after{
+		clear: both;
+		height: 0;
+		display: block;
+		content: "";
+	}
+}
+@default-font-color:white;
+body{
+	@default-from-color: #f993ff;
+	@default-to-color: #BD16E2;
+	@default-from-pos: 15%;
+	@default-to-pos: 80%;
+	background-color:#BD16E2;	
+	& > header{
+
+		.linear-gradient(@default-from-color, @default-to-color, @default-from-pos, @default-to-pos);
+		padding:15px;
+		div#header-container{
+			.clearfix;
+		}
+		div#logo-container{
+			margin: 10px 5px;
+			float: left;
+		}
+		div#reg-form-container{
+			margin: 5px;
+			float: right;
+			color: @default-font-color;
+			form{
+				div{
+					input[type="text"]{
+						border:1px solid purple;
+						border-radius:10px;
+						background-color:#BD56E2;
+						text-indent: 4px;
+					}
+					input[type="password"]{
+						border:1px solid purple;
+						border-radius:10px;
+						background-color:#BD56E2;
+						text-indent: 4px;
+					}
+				}
+				button{
+						border:1px solid purple;
+						border-top:1px solid white;
+						border-left:1px solid white;
+						border-radius:10px;
+						padding:7px 12px;
+						font-weight: bold;
+						cursor: pointer;						
+						background-color:#f993ff;
+						&:hover{							
+							background-color:#BD56E2;
+						}
+						&:active{
+							background-color:#BD96E2;
+						}
+				}
+			}
+		}
+		nav{
+			font-size: 1em;
+			width: 80%;
+			ul#main-nav-list
+			{
+				list-style-type:none;
+				padding:10px;
+				margin: 30px 30px;
+				border: 1px solid black;
+				border-radius:10px;
+				li
+				{
+					padding: 0 10px;
+					display: inline-block;
+					a{
+						text-decoration: none;
+						color: @default-font-color;
+					}
+					&:hover{
+						& > a{
+							text-decoration: underline;	
+						}
+
+						ul
+						{
+							display: block;
+							li
+							{
+								display: block;
+							}						
+						}
+						
+					}
+					ul
+					{
+						margin: 0 5px;
+						list-style-type:none;
+						position: absolute;
+						display: block;
+						border:1px solid rgba(217, 91, 229 ,0.8);
+						border-radius:5px;
+						background-color:rgba(217, 91, 229 ,0.8); 
+						li{
+							display: none;
+							padding:5px 10px;
+							border-bottom:1px solid purple;							
+						}
+					}
+				}
+			}
+			
+		}
+	}
+	section{		
+		.clearfix;
+		display: inline-block;
+		width: 75%;
+		article{
+			margin:  17px 10px;
+			padding: 20px;
+			border: 1px solid black;
+			border-radius:10px;
+			color: @default-font-color;
+			a{
+				text-decoration: none;
+				&:hover{
+					text-decoration:underline;
+				}
+			}
+			header{
+				padding: 0 10px;
+				h1{
+					font-size: 1.2em;
+				}
+			}
+			& > footer{
+				text-align: right;
+			}
+		}
+	}
+	aside{
+		margin-top: 20px;
+		float: right;
+		width: 23%;
+		.clearfix;
+		ul{
+			list-style-type: none;
+			& > li{
+				text-align: left;
+				border:1px solid black;
+				border-radius:5px;
+				margin: 15px 30px 15px 5px;
+				h2{
+					margin:15px;
+					margin-bottom: 5px;
+				}
+				p{
+					margin: 20px;
+					margin-top:10px;
+					em{
+						color: #551A8B;
+					}
+				}
+				a{
+					text-decoration:none;
+				}
+				a:hover{
+					text-decoration: underline;
+				}
+				ul{
+					list-style-image: url(../images/li-dot.png);				
+					li{
+						margin-left: 60px;
+						border:none;
+					}
+				}
+			}
+		}
+	}
+	& > footer{
+		text-align: center;
+		clear: both;
+		margin:10px;
+		p{			
+			font-weight: bold;
+		}
+	}
+}

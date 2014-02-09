@@ -1,0 +1,8 @@
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\08.-12.GSMCallHistoryTest\bin\Debug\08.-12.GSMCallHistoryTest.exe.config
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\08.-12.GSMCallHistoryTest\bin\Debug\08.-12.GSMCallHistoryTest.exe
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\08.-12.GSMCallHistoryTest\bin\Debug\08.-12.GSMCallHistoryTest.pdb
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\08.-12.GSMCallHistoryTest\bin\Debug\GSMUtils.dll
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\08.-12.GSMCallHistoryTest\bin\Debug\GSMUtils.pdb
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\08.-12.GSMCallHistoryTest\obj\Debug\08.-12.GSMCallHistoryTest.csprojResolveAssemblyReference.cache
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\08.-12.GSMCallHistoryTest\obj\Debug\08.-12.GSMCallHistoryTest.exe
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\08.-12.GSMCallHistoryTest\obj\Debug\08.-12.GSMCallHistoryTest.pdb

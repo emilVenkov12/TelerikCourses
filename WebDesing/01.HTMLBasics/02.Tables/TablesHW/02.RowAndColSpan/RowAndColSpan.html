@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+	<title>RowAndColSpan</title>
+	<style type="text/css">
+		.alineRight
+		{
+			width:26px;
+			text-align:right;
+		}
+		.alineCenter
+		{
+			width:25px;
+			text-align:center;
+		}
+		.JLetter
+		{
+			text-align:right;
+			padding:26px 0px 0px 0px; 
+			margin:0;
+		}
+		table
+		{
+			border:1px solid black;
+		}
+	</style>
+</head>
+
+<body>
+	<table>
+		<tbody>
+			<tr>
+				<td colspan="3">Title goes here</td>
+				<td class="alineCenter">A</td>
+				<td class="alineRight">B</td>
+			</tr>
+			<tr>
+				<td rowspan="3">C</td>
+				<td class="alineCenter">D</td>
+				<td class="alineCenter">E</td>
+				<td class="alineCenter">F</td>
+				<td class="alineRight">G</td>
+			</tr>
+			<tr>
+				<td class="alineCenter">H</td>
+				<td class="alineCenter" colspan="2" >I</td>
+				<td class="JLetter" rowspan="2">J</td>
+			</tr>
+			<tr>
+				<td class="alineCenter">K</td>
+				<td class="alineCenter">L</td>
+				<td class="alineCenter">M</td>
+			</tr>
+			<tr>
+				<td class="alineRight">N</td>
+				<td class="alineCenter" colspan="4">O</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+
+</html>

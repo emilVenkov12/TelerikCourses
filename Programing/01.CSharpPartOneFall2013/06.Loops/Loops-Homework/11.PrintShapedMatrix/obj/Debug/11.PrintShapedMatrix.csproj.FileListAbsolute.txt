@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\11.PrintShapedMatrix\bin\Debug\11.PrintShapedMatrix.exe.config
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\11.PrintShapedMatrix\bin\Debug\11.PrintShapedMatrix.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\11.PrintShapedMatrix\bin\Debug\11.PrintShapedMatrix.pdb
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\11.PrintShapedMatrix\obj\Debug\11.PrintShapedMatrix.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\11.PrintShapedMatrix\obj\Debug\11.PrintShapedMatrix.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\11.PrintShapedMatrix\obj\Debug\11.PrintShapedMatrix.pdb

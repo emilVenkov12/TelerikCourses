@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\02.ShowsSignOfNumbersProduct\bin\Debug\02.ShowsSignOfNumbersProduct.exe.config
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\02.ShowsSignOfNumbersProduct\bin\Debug\02.ShowsSignOfNumbersProduct.exe
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\02.ShowsSignOfNumbersProduct\bin\Debug\02.ShowsSignOfNumbersProduct.pdb
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\02.ShowsSignOfNumbersProduct\obj\Debug\02.ShowsSignOfNumbersProduct.exe
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\02.ShowsSignOfNumbersProduct\obj\Debug\02.ShowsSignOfNumbersProduct.pdb
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\02.ShowsSignOfNumbersProduct\obj\Debug\02.ShowsSignOfNumbersProduct.csprojResolveAssemblyReference.cache

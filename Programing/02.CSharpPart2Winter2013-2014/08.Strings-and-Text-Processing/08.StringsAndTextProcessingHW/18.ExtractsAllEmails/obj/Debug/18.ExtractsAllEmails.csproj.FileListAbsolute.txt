@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\18.ExtractsAllEmails\bin\Debug\18.ExtractsAllEmails.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\18.ExtractsAllEmails\bin\Debug\18.ExtractsAllEmails.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\18.ExtractsAllEmails\bin\Debug\18.ExtractsAllEmails.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\18.ExtractsAllEmails\obj\Debug\18.ExtractsAllEmails.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\18.ExtractsAllEmails\obj\Debug\18.ExtractsAllEmails.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\18.ExtractsAllEmails\obj\Debug\18.ExtractsAllEmails.pdb

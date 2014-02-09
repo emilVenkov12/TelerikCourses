@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\06.PadRightGivenString\bin\Debug\06.PadRightGivenString.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\06.PadRightGivenString\bin\Debug\06.PadRightGivenString.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\06.PadRightGivenString\bin\Debug\06.PadRightGivenString.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\06.PadRightGivenString\obj\Debug\06.PadRightGivenString.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\06.PadRightGivenString\obj\Debug\06.PadRightGivenString.pdb

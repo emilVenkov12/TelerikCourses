@@ -1,0 +1,5 @@
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\GSMUtils\bin\Debug\GSMUtils.dll
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\GSMUtils\bin\Debug\GSMUtils.pdb
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\GSMUtils\obj\Debug\GSMUtils.csprojResolveAssemblyReference.cache
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\GSMUtils\obj\Debug\GSMUtils.dll
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\GSMUtils\obj\Debug\GSMUtils.pdb

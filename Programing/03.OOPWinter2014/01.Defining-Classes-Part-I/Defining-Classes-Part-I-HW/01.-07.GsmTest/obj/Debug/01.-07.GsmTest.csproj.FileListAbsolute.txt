@@ -1,0 +1,8 @@
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\01.-07.GsmTest\obj\Debug\01.-07.GsmTest.csprojResolveAssemblyReference.cache
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\01.-07.GsmTest\bin\Debug\01.-07.GsmTest.exe.config
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\01.-07.GsmTest\bin\Debug\01.-07.GsmTest.exe
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\01.-07.GsmTest\bin\Debug\01.-07.GsmTest.pdb
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\01.-07.GsmTest\bin\Debug\GSMUtils.dll
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\01.-07.GsmTest\bin\Debug\GSMUtils.pdb
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\01.-07.GsmTest\obj\Debug\01.-07.GsmTest.exe
+D:\Courses\03.OOPWinter2014\01.Defining-Classes-Part-I\Defining-Classes-Part-I-HW\01.-07.GsmTest\obj\Debug\01.-07.GsmTest.pdb

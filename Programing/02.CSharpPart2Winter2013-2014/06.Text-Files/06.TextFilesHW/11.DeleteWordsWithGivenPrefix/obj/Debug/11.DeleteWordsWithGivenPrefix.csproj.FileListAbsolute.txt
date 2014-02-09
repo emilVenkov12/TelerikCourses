@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\11.DeleteWordsWithGivenPrefix\bin\Debug\11.DeleteWordsWithGivenPrefix.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\11.DeleteWordsWithGivenPrefix\bin\Debug\11.DeleteWordsWithGivenPrefix.exe
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\11.DeleteWordsWithGivenPrefix\bin\Debug\11.DeleteWordsWithGivenPrefix.pdb
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\11.DeleteWordsWithGivenPrefix\obj\Debug\11.DeleteWordsWithGivenPrefix.exe
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\11.DeleteWordsWithGivenPrefix\obj\Debug\11.DeleteWordsWithGivenPrefix.pdb

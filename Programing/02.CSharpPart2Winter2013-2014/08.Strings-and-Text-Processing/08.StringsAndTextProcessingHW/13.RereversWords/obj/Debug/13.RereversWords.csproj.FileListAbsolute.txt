@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\13.RereversWords\bin\Debug\13.RereversWords.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\13.RereversWords\obj\Debug\13.RereversWords.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\13.RereversWords\bin\Debug\13.RereversWords.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\13.RereversWords\bin\Debug\13.RereversWords.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\13.RereversWords\obj\Debug\13.RereversWords.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\13.RereversWords\obj\Debug\13.RereversWords.pdb

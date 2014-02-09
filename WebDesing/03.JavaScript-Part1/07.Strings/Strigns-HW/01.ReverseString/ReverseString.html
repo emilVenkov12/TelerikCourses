@@ -1,0 +1,35 @@
+<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style type="text/css">
+		body a#nav.clear-fix{
+			float: right;
+			margin: 10px;
+		}
+		.clear-fix:after {
+			height: 0;
+			clear: both;
+			content: '';
+			display: block;
+		}
+	</style>
+	<script src="scripts/reverseFunc.js"></script>
+</head>
+<body>
+	<p>1. Write a JavaScript function reverses string and returns it.</p>	
+	<a class="clear-fix" id="nav" href="../02.CheckExpBracket/CheckExpBrackets.html">
+		 Next Task &gt;
+	</a>
+	<a class="clear-fix" id="nav" href="../12.CreatesULByTemplate/CreatesULByTemplate.html">
+		&lt; Prev Task 
+	</a>
+	<label for="input-word">Entre word: </label>
+	<input type="text" id="input-word">
+	<button onClick="onReverseWordBtnClick()">Reverse Word</button>
+
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	
+</body>
+</html>

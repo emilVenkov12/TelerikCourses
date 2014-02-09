@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\04.GetNumAppearsCountMethod\bin\Debug\04.GetNumAppearsCountMethod.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\04.GetNumAppearsCountMethod\bin\Debug\04.GetNumAppearsCountMethod.exe
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\04.GetNumAppearsCountMethod\bin\Debug\04.GetNumAppearsCountMethod.pdb
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\04.GetNumAppearsCountMethod\obj\Debug\04.GetNumAppearsCountMethod.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\04.GetNumAppearsCountMethod\obj\Debug\04.GetNumAppearsCountMethod.exe
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\04.GetNumAppearsCountMethod\obj\Debug\04.GetNumAppearsCountMethod.pdb

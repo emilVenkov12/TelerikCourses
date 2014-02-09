@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\04.Numeral-Systems\04.NumeralSystemsHW\09.GetBitsOfFloatNum\bin\Debug\09.GetBitsOfFloatNum.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\04.Numeral-Systems\04.NumeralSystemsHW\09.GetBitsOfFloatNum\bin\Debug\09.GetBitsOfFloatNum.exe
+D:\Courses\CSharpPart2Winter2013-2014\04.Numeral-Systems\04.NumeralSystemsHW\09.GetBitsOfFloatNum\bin\Debug\09.GetBitsOfFloatNum.pdb
+D:\Courses\CSharpPart2Winter2013-2014\04.Numeral-Systems\04.NumeralSystemsHW\09.GetBitsOfFloatNum\obj\Debug\09.GetBitsOfFloatNum.exe
+D:\Courses\CSharpPart2Winter2013-2014\04.Numeral-Systems\04.NumeralSystemsHW\09.GetBitsOfFloatNum\obj\Debug\09.GetBitsOfFloatNum.pdb
+D:\Courses\CSharpPart2Winter2013-2014\04.Numeral-Systems\04.NumeralSystemsHW\09.GetBitsOfFloatNum\obj\Debug\09.GetBitsOfFloatNum.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\BitwiseHelpClasses\BitHelper\obj\Debug\BitHelper.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\BitwiseHelpClasses\BitHelper\bin\Debug\BitHelper.dll
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\BitwiseHelpClasses\BitHelper\bin\Debug\BitHelper.pdb
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\BitwiseHelpClasses\BitHelper\obj\Debug\BitHelper.dll
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\BitwiseHelpClasses\BitHelper\obj\Debug\BitHelper.pdb

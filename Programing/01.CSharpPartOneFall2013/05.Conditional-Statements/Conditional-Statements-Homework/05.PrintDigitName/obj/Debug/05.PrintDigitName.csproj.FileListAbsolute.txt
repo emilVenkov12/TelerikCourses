@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\05.PrintDigitName\bin\Debug\05.PrintDigitName.exe.config
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\05.PrintDigitName\bin\Debug\05.PrintDigitName.exe
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\05.PrintDigitName\bin\Debug\05.PrintDigitName.pdb
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\05.PrintDigitName\obj\Debug\05.PrintDigitName.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\05.PrintDigitName\obj\Debug\05.PrintDigitName.exe
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\05.PrintDigitName\obj\Debug\05.PrintDigitName.pdb

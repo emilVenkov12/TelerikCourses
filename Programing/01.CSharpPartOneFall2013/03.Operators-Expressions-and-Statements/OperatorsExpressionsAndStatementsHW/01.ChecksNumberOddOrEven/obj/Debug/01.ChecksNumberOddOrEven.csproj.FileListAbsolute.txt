@@ -1,0 +1,1 @@
+D:\Courses\CSharpPart1Fall2013\03.Operators-Expressions-and-Statements\OperatorsExpressionsAndStatementsHW\01.ChecksNumberOddOrEven\bin\Debug\01.ChecksNumberOddOrEven.exe.config

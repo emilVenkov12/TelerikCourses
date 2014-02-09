@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\07.FindsLargestArea\bin\Debug\07.FindsLargestArea.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\07.FindsLargestArea\bin\Debug\07.FindsLargestArea.exe
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\07.FindsLargestArea\bin\Debug\07.FindsLargestArea.pdb
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\07.FindsLargestArea\obj\Debug\07.FindsLargestArea.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\07.FindsLargestArea\obj\Debug\07.FindsLargestArea.exe
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\07.FindsLargestArea\obj\Debug\07.FindsLargestArea.pdb

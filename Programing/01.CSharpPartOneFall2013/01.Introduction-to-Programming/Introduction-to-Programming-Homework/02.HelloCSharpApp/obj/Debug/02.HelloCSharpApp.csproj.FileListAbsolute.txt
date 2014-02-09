@@ -1,0 +1,2 @@
+D:\Courses\CSharpPart1Fall2013\01.Introduction-to-Programming\Introduction-to-Programming-Homework\02.HelloCSharpApp\bin\Debug\02.HelloCSharpApp.exe.config
+D:\Projects\TelerikCourses\CSharpPartOneFall2013\01.Introduction-to-Programming\Introduction-to-Programming-Homework\02.HelloCSharpApp\bin\Debug\02.HelloCSharpApp.exe.config

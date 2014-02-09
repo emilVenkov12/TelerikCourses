@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\01.ChecksYearIsALeap\bin\Debug\01.ChecksYearIsALeap.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\01.ChecksYearIsALeap\bin\Debug\01.ChecksYearIsALeap.exe
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\01.ChecksYearIsALeap\bin\Debug\01.ChecksYearIsALeap.pdb
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\01.ChecksYearIsALeap\obj\Debug\01.ChecksYearIsALeap.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\01.ChecksYearIsALeap\obj\Debug\01.ChecksYearIsALeap.exe
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\01.ChecksYearIsALeap\obj\Debug\01.ChecksYearIsALeap.pdb

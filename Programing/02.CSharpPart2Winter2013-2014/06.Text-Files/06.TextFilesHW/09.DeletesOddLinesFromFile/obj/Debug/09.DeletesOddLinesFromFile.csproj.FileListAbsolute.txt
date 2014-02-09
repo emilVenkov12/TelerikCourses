@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\09.DeletesOddLinesFromFile\bin\Debug\09.DeletesOddLinesFromFile.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\09.DeletesOddLinesFromFile\bin\Debug\09.DeletesOddLinesFromFile.exe
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\09.DeletesOddLinesFromFile\bin\Debug\09.DeletesOddLinesFromFile.pdb
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\09.DeletesOddLinesFromFile\obj\Debug\09.DeletesOddLinesFromFile.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\09.DeletesOddLinesFromFile\obj\Debug\09.DeletesOddLinesFromFile.exe
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\09.DeletesOddLinesFromFile\obj\Debug\09.DeletesOddLinesFromFile.pdb

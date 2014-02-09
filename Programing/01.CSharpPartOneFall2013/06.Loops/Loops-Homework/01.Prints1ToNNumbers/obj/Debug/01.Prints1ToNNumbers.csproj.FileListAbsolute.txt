@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\01.Prints1ToNNumbers\bin\Debug\01.Prints1ToNNumbers.exe.config
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\01.Prints1ToNNumbers\bin\Debug\01.Prints1ToNNumbers.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\01.Prints1ToNNumbers\bin\Debug\01.Prints1ToNNumbers.pdb
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\01.Prints1ToNNumbers\obj\Debug\01.Prints1ToNNumbers.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\01.Prints1ToNNumbers\obj\Debug\01.Prints1ToNNumbers.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\01.Prints1ToNNumbers\obj\Debug\01.Prints1ToNNumbers.pdb

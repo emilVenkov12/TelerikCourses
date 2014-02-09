@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\07.-08.ReplaceSubstingsAndWords\bin\Debug\07.-08.ReplaceSubstingsAndWords.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\07.-08.ReplaceSubstingsAndWords\bin\Debug\07.-08.ReplaceSubstingsAndWords.exe
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\07.-08.ReplaceSubstingsAndWords\bin\Debug\07.-08.ReplaceSubstingsAndWords.pdb
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\07.-08.ReplaceSubstingsAndWords\obj\Debug\07.-08.ReplaceSubstingsAndWords.exe
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\07.-08.ReplaceSubstingsAndWords\obj\Debug\07.-08.ReplaceSubstingsAndWords.pdb

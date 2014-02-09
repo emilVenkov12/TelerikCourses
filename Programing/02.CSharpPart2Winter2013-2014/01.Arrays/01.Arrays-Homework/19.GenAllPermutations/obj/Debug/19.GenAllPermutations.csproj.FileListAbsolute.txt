@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\19.GenAllPermutations\bin\Debug\19.GenAllPermutations.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\19.GenAllPermutations\bin\Debug\19.GenAllPermutations.exe
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\19.GenAllPermutations\bin\Debug\19.GenAllPermutations.pdb
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\19.GenAllPermutations\obj\Debug\19.GenAllPermutations.exe
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\19.GenAllPermutations\obj\Debug\19.GenAllPermutations.pdb

@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Variant1-2012\05.FormulaBit1\bin\Debug\05.FormulaBit1.exe.config
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Variant1-2012\05.FormulaBit1\obj\Debug\05.FormulaBit1.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Variant1-2012\05.FormulaBit1\bin\Debug\05.FormulaBit1.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Variant1-2012\05.FormulaBit1\bin\Debug\05.FormulaBit1.pdb
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Variant1-2012\05.FormulaBit1\obj\Debug\05.FormulaBit1.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Variant1-2012\05.FormulaBit1\obj\Debug\05.FormulaBit1.pdb

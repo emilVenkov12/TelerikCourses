@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\11.PrintsNumberDiffrentWays\bin\Debug\11.PrintsNumberDiffrentWays.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\11.PrintsNumberDiffrentWays\bin\Debug\11.PrintsNumberDiffrentWays.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\11.PrintsNumberDiffrentWays\bin\Debug\11.PrintsNumberDiffrentWays.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\11.PrintsNumberDiffrentWays\obj\Debug\11.PrintsNumberDiffrentWays.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\11.PrintsNumberDiffrentWays\obj\Debug\11.PrintsNumberDiffrentWays.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\11.PrintsNumberDiffrentWays\obj\Debug\11.PrintsNumberDiffrentWays.csprojResolveAssemblyReference.cache

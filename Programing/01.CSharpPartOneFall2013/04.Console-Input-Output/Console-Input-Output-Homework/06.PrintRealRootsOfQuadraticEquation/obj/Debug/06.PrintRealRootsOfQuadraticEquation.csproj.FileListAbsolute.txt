@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\06.PrintRealRootsOfQuadraticEquation\bin\Debug\06.PrintRealRootsOfQuadraticEquation.exe.config
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\06.PrintRealRootsOfQuadraticEquation\bin\Debug\06.PrintRealRootsOfQuadraticEquation.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\06.PrintRealRootsOfQuadraticEquation\bin\Debug\06.PrintRealRootsOfQuadraticEquation.pdb
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\06.PrintRealRootsOfQuadraticEquation\obj\Debug\06.PrintRealRootsOfQuadraticEquation.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\06.PrintRealRootsOfQuadraticEquation\obj\Debug\06.PrintRealRootsOfQuadraticEquation.pdb

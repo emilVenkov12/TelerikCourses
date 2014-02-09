@@ -1,0 +1,38 @@
+
+<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style type="text/css">
+		body a#nav.clear-fix{
+			float: right;
+			margin: 10px;
+		}
+		.clear-fix:after {
+			height: 0;
+			clear: both;
+			content: '';
+			display: block;
+		}
+	</style>
+	<script src="scripts/checkElemNighbors.js"></script>
+</head>
+<body>
+	<p>6. Write a function that checks if the element at given position in given array of integers is bigger than its two neighbors (when such exist).</p>
+	<a class="clear-fix" id="nav" href="../07.GetFirstElemThatIsBiggerThanNeighbors/GetFirstElemThatIsBiggerThanNeighbors.html">
+		 Next Task &gt;
+	</a>
+	<a class="clear-fix" id="nav" href="../05.GetCountOfGivenNum/ChecksEvenOrOdd.html">
+		&lt; Prev Task 
+	</a>
+	<label for="inputArray">Enter number separated by comma (,): </label>
+	<input type="text" id="inputArray">
+	<label for="inputPos">Enter position: </label>
+	<input type="text" id="inputPos">
+	<button onClick="onCheckNumberBtnClick()">Check number!</button>
+	<button onClick="onUseTestFuncBtnClick()">Use test function</button>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	
+</body>
+</html>

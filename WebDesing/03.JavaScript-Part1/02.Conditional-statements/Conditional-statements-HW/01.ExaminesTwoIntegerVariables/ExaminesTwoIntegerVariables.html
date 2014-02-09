@@ -1,0 +1,21 @@
+<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<script src="scripts/examineVariables.js"></script>
+</head>
+<body>
+	<p>1.	Write an if statement that examines two integer variables and exchanges their values if the first one is greater than the second one.</p>
+	<label for="inputFirstNum">Enter first number: </label>
+	<input type="text" id="inputFirstNum" value = "2">
+	<label for="inputSecondNum">Enter second number: </label>
+	<input type="text" id="inputSecondNum" valau = "4">
+
+	<button onClick="examineVariables(document.getElementById('inputFirstNum').value,
+		 document.getElementById('inputSecondNum').value)">Examine!</button>
+
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	
+</body>
+</html>

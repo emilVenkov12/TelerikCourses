@@ -1,0 +1,40 @@
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		body a#nav.clear-fix{
+			float: right;
+			margin: 10px;
+		}
+		.clear-fix:after {
+			height: 0;
+			clear: both;
+			content: '';
+			display: block;
+		}
+		textarea{
+			width: 400px;
+			height: 300px;
+		}
+		div#output{
+			font: bold 1em/1.5 sans-serif;
+		}
+	</style>
+	<script src="scripts/getHtmlTagsContent.js"></script>
+</head>
+<body>
+	<p>6 . Write a function that extracts the content of a html page given as text. The function should return anything that is in a tag, without the tags</p>	
+	<a class="clear-fix" id="nav" href="../07.ParseUrlAddress/ParseUrlAddress.html">
+		 Next Task &gt;
+	</a>
+	<a class="clear-fix" id="nav" href="../05.ReplaceSpacesWithCode/ReplaceSpacesWithCode.html">
+		&lt; Prev Task 
+	</a>
+	<textarea id="input-text" placeholder="Enter your text here.."></textarea>
+</br>
+	<button onClick="onExtractTextBtnClick()">Extract Text</button>
+	<button onClick="onGenerateDemoBtnClick()">Generate demo</button>
+	<div id="output"></div>
+	
+</body>
+</html>

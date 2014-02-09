@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\20.GenAllVariationsOfN\bin\Debug\20.GenAllVariationsOfN.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\20.GenAllVariationsOfN\bin\Debug\20.GenAllVariationsOfN.exe
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\20.GenAllVariationsOfN\bin\Debug\20.GenAllVariationsOfN.pdb
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\20.GenAllVariationsOfN\obj\Debug\20.GenAllVariationsOfN.exe
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\20.GenAllVariationsOfN\obj\Debug\20.GenAllVariationsOfN.pdb

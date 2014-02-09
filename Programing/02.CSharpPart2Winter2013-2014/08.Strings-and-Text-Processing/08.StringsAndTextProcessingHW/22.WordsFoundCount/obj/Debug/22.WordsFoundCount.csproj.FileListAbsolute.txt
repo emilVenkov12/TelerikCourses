@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\22.WordsFoundCount\bin\Debug\22.WordsFoundCount.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\22.WordsFoundCount\bin\Debug\22.WordsFoundCount.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\22.WordsFoundCount\bin\Debug\22.WordsFoundCount.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\22.WordsFoundCount\obj\Debug\22.WordsFoundCount.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\22.WordsFoundCount\obj\Debug\22.WordsFoundCount.pdb

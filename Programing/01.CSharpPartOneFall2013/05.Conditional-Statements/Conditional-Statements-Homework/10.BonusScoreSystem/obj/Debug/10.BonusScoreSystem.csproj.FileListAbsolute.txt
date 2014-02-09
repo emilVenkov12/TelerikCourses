@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\10.BonusScoreSystem\bin\Debug\10.BonusScoreSystem.exe.config
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\10.BonusScoreSystem\bin\Debug\10.BonusScoreSystem.exe
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\10.BonusScoreSystem\bin\Debug\10.BonusScoreSystem.pdb
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\10.BonusScoreSystem\obj\Debug\10.BonusScoreSystem.exe
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\10.BonusScoreSystem\obj\Debug\10.BonusScoreSystem.pdb

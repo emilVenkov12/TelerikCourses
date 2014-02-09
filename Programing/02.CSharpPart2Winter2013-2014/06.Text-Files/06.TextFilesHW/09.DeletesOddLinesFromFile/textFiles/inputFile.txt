@@ -1,0 +1,16 @@
+{
+    using System.IO;
+
+    {
+
+        {
+
+            {
+                for (string line; (line = srInputFile.ReadLine()) != null; lineNumber++)
+                    if (lineNumber % 2 == 0)
+                        evenLines.AppendLine(line);
+                }
+            using (StreamWriter swInputFile = new StreamWriter(@"../../textFiles\inputFile.txt"))
+                swInputFile.Write(evenLines.ToString());
+        }
+}

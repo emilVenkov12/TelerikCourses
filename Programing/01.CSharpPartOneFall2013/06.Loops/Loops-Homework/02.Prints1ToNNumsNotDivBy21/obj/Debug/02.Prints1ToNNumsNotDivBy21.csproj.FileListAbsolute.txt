@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\02.Prints1ToNNumsNotDivBy21\bin\Debug\02.Prints1ToNNumsNotDivBy21.exe.config
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\02.Prints1ToNNumsNotDivBy21\bin\Debug\02.Prints1ToNNumsNotDivBy21.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\02.Prints1ToNNumsNotDivBy21\bin\Debug\02.Prints1ToNNumsNotDivBy21.pdb
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\02.Prints1ToNNumsNotDivBy21\obj\Debug\02.Prints1ToNNumsNotDivBy21.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\02.Prints1ToNNumsNotDivBy21\obj\Debug\02.Prints1ToNNumsNotDivBy21.pdb

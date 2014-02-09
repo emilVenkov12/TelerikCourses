@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\04.FindsSubstringOccurenceCount\bin\Debug\04.FindsSubstringOccurenceCount.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\04.FindsSubstringOccurenceCount\bin\Debug\04.FindsSubstringOccurenceCount.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\04.FindsSubstringOccurenceCount\bin\Debug\04.FindsSubstringOccurenceCount.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\04.FindsSubstringOccurenceCount\obj\Debug\04.FindsSubstringOccurenceCount.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\04.FindsSubstringOccurenceCount\obj\Debug\04.FindsSubstringOccurenceCount.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\04.FindsSubstringOccurenceCount\obj\Debug\04.FindsSubstringOccurenceCount.csprojResolveAssemblyReference.cache

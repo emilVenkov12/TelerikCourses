@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.TwoIsBetterThanOne", "05.TwoIsBetterThanOne\05.TwoIsBetterThanOne.csproj", "{BC82A159-0D31-4C09-8E74-1509B1A270A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DurankulakNumbers", "01.DurankulakNumbers\01.DurankulakNumbers.csproj", "{5C12350C-5CF2-4961-A658-845DFCA8C1E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC82A159-0D31-4C09-8E74-1509B1A270A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC82A159-0D31-4C09-8E74-1509B1A270A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC82A159-0D31-4C09-8E74-1509B1A270A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC82A159-0D31-4C09-8E74-1509B1A270A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C12350C-5CF2-4961-A658-845DFCA8C1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C12350C-5CF2-4961-A658-845DFCA8C1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C12350C-5CF2-4961-A658-845DFCA8C1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C12350C-5CF2-4961-A658-845DFCA8C1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

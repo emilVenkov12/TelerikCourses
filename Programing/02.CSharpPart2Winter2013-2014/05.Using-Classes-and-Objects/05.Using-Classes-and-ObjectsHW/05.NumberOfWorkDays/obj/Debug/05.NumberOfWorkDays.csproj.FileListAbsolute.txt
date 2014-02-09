@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\05.NumberOfWorkDays\bin\Debug\05.NumberOfWorkDays.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\05.NumberOfWorkDays\bin\Debug\05.NumberOfWorkDays.exe
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\05.NumberOfWorkDays\bin\Debug\05.NumberOfWorkDays.pdb
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\05.NumberOfWorkDays\obj\Debug\05.NumberOfWorkDays.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\05.NumberOfWorkDays\obj\Debug\05.NumberOfWorkDays.exe
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\05.NumberOfWorkDays\obj\Debug\05.NumberOfWorkDays.pdb

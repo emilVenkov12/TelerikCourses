@@ -1,0 +1,190 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<title>Simple Web Form</title>
+	<style type="text/css" media="screen">
+		table, td, tr 
+		{
+			border:1px solid lightgray;
+			border-collapse:collapse;
+
+		}
+		td
+		{
+			padding:2px 2px 2px 2px;
+		}
+		td label
+		{
+			font-weight:bold;		
+		}
+		td input
+		{
+			width:250px;
+		}
+		.FirstColumns
+		{
+			width:150px;
+			text-align:right;
+		}
+		.SecondColumns
+		{
+			width:270px;
+		}
+	</style>
+</head>
+
+<body>
+	<section>
+		<form action="none" method="post">
+			<table>
+				<tbody>
+					<tr>
+						<td class="FirstColumns">
+							<label for="LastName">Last Name </label>
+						</td>
+						<td class="SecondColumns" colspan="3">
+							<input type="text" id="LastName">
+						</td>
+					</tr>
+					<tr>
+						<td class="FirstColumns">
+							<label for="FirstName" class="FirstColumns">First Name </label>
+						</td>
+						<td class="SecondColumns" colspan="3">
+							<input type="text" id="FirstName">
+						</td>
+					</tr>
+					<tr>
+						<td class="FirstColumns">
+							<label for="Address">Address </label>
+						</td>
+						<td colspan="3">
+							<textarea id="Address" style="width:220px"></textarea>
+						</td>
+					</tr>
+					<tr>
+						<td class="FirstColumns">
+							<label for="City">City</label>
+						</td>
+						<td>
+							<input type="text" id="City" style="width:200px">
+						</td>
+						<td>
+							<label for="State">State</label>
+						</td>
+						<td>
+							<input type="text" value="" id="State" style="width:40px">
+						</td>
+					</tr>
+					<tr>
+						<td class="FirstColumns">
+							<label for="ZipPostalCode">Zip/Postal Code</label>
+						</td>
+						<td colspan="3">
+							<input type="text" id="ZipPostalCode" style="width:50px">
+						</td>
+					</tr>
+					<tr>
+						<td class="FirstColumns">
+							<label for="Country">Country</label>
+						</td>
+						<td colspan="3">
+							<select name="Country" id="Country" style="width:200px">
+								<option value="USA">USA</option>
+								<option value="EN">England</option>
+								<option value="BG" selected="selected">Bulgaria</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td class="FirstColumns">
+							<label for="CountryCode">Phone(county code, area code,number)</label>
+						</td>
+						<td colspan="3">
+							<label for="CountryCode" style="font-weight:normal">(+</label>
+							<input type="text" id="CountryCode" style="width:50px">
+							<label for="AreaCode" style="font-weight:normal">)</label>
+							<input type="text" id="AreaCode" style="width:50px">
+							<label for="Number">-</label>
+							<input type="text" id="Number" style="width:130px">
+						</td>
+					</tr>
+					<tr>
+						<td class="FirstColumns">
+							<label for="Email">Email</label>
+						</td>
+						<td colspan="3">
+							<input 
+								type="email" 
+								id="Email"
+								pattern="[^ @]*@[^ @].[^ @]" 
+								style="width:270px">
+						</td>
+					</tr>
+					<tr>
+						<td class="FirstColumns">
+							<label for="Month">Birth date</label>
+						</td>
+						<td colspan="3">
+							<label for="Month" style="font-weight:normal">Month</label>
+							<input type="text" id="Month" style="width:20px">
+							<label for="Day" style="font-weight:normal">Day</label>
+							<input type="text" id="Day" style="width:20px">
+							<label for="Year" style="font-weight:normal">Year(4 digit)</label>
+							<input type="text" id="Year" style="width:60px">
+						</td>
+					</tr>
+					<tr>
+						<td class="FirstColumns">
+							<label for="Gender">Gender</label>
+						</td>
+						<td colspan="3">
+							<select name="Gender" id="Gender">
+								<option value="Male" selected="selected">Male</option>
+								<option value="Female">Female</option>
+								<option value="other">Other</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td class="FirstColumns">
+							<label>Starting date</label>
+						</td>
+						<td colspan="3">
+							<input name="StartingDate" type="radio" id="Spring" style="width:20px" checked="checked">
+							<label for="Spring" style="font-weight:normal">Spring 2006</label>
+							<input name="StartingDate" type="radio" id="Summer" style="width:20px">
+							<label for="Summer" style="font-weight:normal">Summer 2006</label>
+							
+						</td>
+					</tr>
+					<tr>
+						<td class="FirstColumns">
+							<label for="Comments">Comments/Questions</label>
+						</td>
+						<td colspan="3">
+							<textarea 
+								id="Comments" 
+								style="
+									width:220px; 
+									height:100px">
+							</textarea>
+						</td>
+					</tr>
+				</tbody>
+				<tfoot>
+					<tr>
+						<td colspan="4" style="text-align:center; background-color:#D3ECE1">
+							<input type="submit" style="width:70px" value="Submit">
+							<input type="reset" value="Clear this form" style="width:100px">
+						</td>
+					</tr>
+				</tfoot>
+			</table>
+		</form>
+	</section>
+</body>
+
+</html>

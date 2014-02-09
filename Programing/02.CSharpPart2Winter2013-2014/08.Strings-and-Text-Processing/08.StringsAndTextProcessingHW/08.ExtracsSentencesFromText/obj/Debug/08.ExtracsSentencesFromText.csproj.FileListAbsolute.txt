@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\08.ExtracsSentencesFromText\bin\Debug\08.ExtracsSentencesFromText.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\08.ExtracsSentencesFromText\bin\Debug\08.ExtracsSentencesFromText.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\08.ExtracsSentencesFromText\bin\Debug\08.ExtracsSentencesFromText.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\08.ExtracsSentencesFromText\obj\Debug\08.ExtracsSentencesFromText.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\08.ExtracsSentencesFromText\obj\Debug\08.ExtracsSentencesFromText.pdb

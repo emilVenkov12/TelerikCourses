@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\C# Part 2@14Sept2013 - Morning\Morning-14Sep2013\02.Magic-Words\bin\Debug\02.Magic-Words.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\C# Part 2@14Sept2013 - Morning\Morning-14Sep2013\02.Magic-Words\obj\Debug\02.Magic-Words.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\C# Part 2@14Sept2013 - Morning\Morning-14Sep2013\02.Magic-Words\bin\Debug\02.Magic-Words.exe
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\C# Part 2@14Sept2013 - Morning\Morning-14Sep2013\02.Magic-Words\bin\Debug\02.Magic-Words.pdb
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\C# Part 2@14Sept2013 - Morning\Morning-14Sep2013\02.Magic-Words\obj\Debug\02.Magic-Words.exe
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\C# Part 2@14Sept2013 - Morning\Morning-14Sep2013\02.Magic-Words\obj\Debug\02.Magic-Words.pdb

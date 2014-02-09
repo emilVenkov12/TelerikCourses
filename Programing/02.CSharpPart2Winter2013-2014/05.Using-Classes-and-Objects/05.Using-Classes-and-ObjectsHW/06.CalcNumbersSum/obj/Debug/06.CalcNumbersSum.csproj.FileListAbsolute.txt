@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\06.CalcNumbersSum\bin\Debug\06.CalcNumbersSum.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\06.CalcNumbersSum\obj\Debug\06.CalcNumbersSum.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\06.CalcNumbersSum\bin\Debug\06.CalcNumbersSum.exe
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\06.CalcNumbersSum\bin\Debug\06.CalcNumbersSum.pdb
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\06.CalcNumbersSum\obj\Debug\06.CalcNumbersSum.exe
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\06.CalcNumbersSum\obj\Debug\06.CalcNumbersSum.pdb

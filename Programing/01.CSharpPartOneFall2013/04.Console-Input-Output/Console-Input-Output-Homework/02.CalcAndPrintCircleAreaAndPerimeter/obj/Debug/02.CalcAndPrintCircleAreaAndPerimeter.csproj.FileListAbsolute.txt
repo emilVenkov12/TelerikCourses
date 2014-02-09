@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\02.CalcAndPrintCircleAreaAndPerimeter\bin\Debug\02.CalcAndPrintCircleAreaAndPerimeter.exe.config
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\02.CalcAndPrintCircleAreaAndPerimeter\bin\Debug\02.CalcAndPrintCircleAreaAndPerimeter.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\02.CalcAndPrintCircleAreaAndPerimeter\bin\Debug\02.CalcAndPrintCircleAreaAndPerimeter.pdb
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\02.CalcAndPrintCircleAreaAndPerimeter\obj\Debug\02.CalcAndPrintCircleAreaAndPerimeter.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\02.CalcAndPrintCircleAreaAndPerimeter\obj\Debug\02.CalcAndPrintCircleAreaAndPerimeter.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\02.CalcAndPrintCircleAreaAndPerimeter\obj\Debug\02.CalcAndPrintCircleAreaAndPerimeter.pdb

@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\02.FindsMaxSumOf3by3Square\bin\Debug\02.FindsMaxSumOf3by3Square.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\02.FindsMaxSumOf3by3Square\bin\Debug\02.FindsMaxSumOf3by3Square.exe
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\02.FindsMaxSumOf3by3Square\bin\Debug\02.FindsMaxSumOf3by3Square.pdb
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\02.FindsMaxSumOf3by3Square\obj\Debug\02.FindsMaxSumOf3by3Square.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\02.FindsMaxSumOf3by3Square\obj\Debug\02.FindsMaxSumOf3by3Square.exe
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\02.FindsMaxSumOf3by3Square\obj\Debug\02.FindsMaxSumOf3by3Square.pdb

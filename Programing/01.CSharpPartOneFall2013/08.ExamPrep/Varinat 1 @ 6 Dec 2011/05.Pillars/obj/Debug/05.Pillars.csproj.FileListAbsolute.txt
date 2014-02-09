@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Varinat 1 @ 6 Dec 2011\05.Pillars\bin\Debug\05.Pillars.exe.config
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Varinat 1 @ 6 Dec 2011\05.Pillars\obj\Debug\05.Pillars.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Varinat 1 @ 6 Dec 2011\05.Pillars\bin\Debug\05.Pillars.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Varinat 1 @ 6 Dec 2011\05.Pillars\bin\Debug\05.Pillars.pdb
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Varinat 1 @ 6 Dec 2011\05.Pillars\obj\Debug\05.Pillars.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Varinat 1 @ 6 Dec 2011\05.Pillars\obj\Debug\05.Pillars.pdb

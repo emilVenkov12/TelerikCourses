@@ -1,0 +1,6 @@
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\08.-09.-10.GenericMatrixTest\obj\Debug\08.-09.-10.GenericMatrixTest.csprojResolveAssemblyReference.cache
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\08.-09.-10.GenericMatrixTest\bin\Debug\08.-09.-10.GenericMatrixTest.exe.config
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\08.-09.-10.GenericMatrixTest\bin\Debug\08.-09.-10.GenericMatrixTest.exe
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\08.-09.-10.GenericMatrixTest\bin\Debug\08.-09.-10.GenericMatrixTest.pdb
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\08.-09.-10.GenericMatrixTest\obj\Debug\08.-09.-10.GenericMatrixTest.exe
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\08.-09.-10.GenericMatrixTest\obj\Debug\08.-09.-10.GenericMatrixTest.pdb

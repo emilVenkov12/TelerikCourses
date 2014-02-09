@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@24-June-2013\05.Bittris\bin\Debug\05.Bittris.exe.config
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@24-June-2013\05.Bittris\bin\Debug\05.Bittris.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@24-June-2013\05.Bittris\bin\Debug\05.Bittris.pdb
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@24-June-2013\05.Bittris\obj\Debug\05.Bittris.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@24-June-2013\05.Bittris\obj\Debug\05.Bittris.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@24-June-2013\05.Bittris\obj\Debug\05.Bittris.pdb

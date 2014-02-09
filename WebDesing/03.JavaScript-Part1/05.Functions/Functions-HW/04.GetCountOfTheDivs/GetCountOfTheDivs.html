@@ -1,0 +1,35 @@
+<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style type="text/css">
+		body a#nav.clear-fix{
+			float: right;
+			margin: 10px;
+		}
+		.clear-fix:after {
+			height: 0;
+			clear: both;
+			content: '';
+			display: block;
+		}
+	</style>
+	<script src="scripts/getCountOfTheDivs.js"></script>
+</head>
+<body>
+	<p>4. Write a function to count the number of divs on the
+web page.</p>
+	<a class="clear-fix" id="nav" href="../05.GetCountOfGivenNum/ChecksEvenOrOdd.html">
+		 Next Task &gt;
+	</a>
+	<a class="clear-fix" id="nav" href="../03.FindsAllOccurrencesOfWord/FindsAllOccurrencesOfWord.html">
+		&lt; Prev Task 
+	</a>
+	<button onClick="onGetDivCountBtnClick()">Show Div's count</button>
+	<button onClick="onAddDivBtnClick()">Add new div element</button>
+	<div></div>
+	<div></div>
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\04.CalcsNfactDevByKfact\bin\Debug\04.CalcsNfactDevByKfact.exe.config
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\04.CalcsNfactDevByKfact\bin\Debug\04.CalcsNfactDevByKfact.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\04.CalcsNfactDevByKfact\bin\Debug\04.CalcsNfactDevByKfact.pdb
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\04.CalcsNfactDevByKfact\obj\Debug\04.CalcsNfactDevByKfact.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\04.CalcsNfactDevByKfact\obj\Debug\04.CalcsNfactDevByKfact.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\04.CalcsNfactDevByKfact\obj\Debug\04.CalcsNfactDevByKfact.pdb

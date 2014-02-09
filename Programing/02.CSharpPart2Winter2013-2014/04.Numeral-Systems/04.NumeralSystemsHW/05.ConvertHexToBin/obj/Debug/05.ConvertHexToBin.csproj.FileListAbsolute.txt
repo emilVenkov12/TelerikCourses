@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\04.Numeral-Systems\04.NumeralSystemsHW\05.ConvertHexToBin\bin\Debug\05.ConvertHexToBin.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\04.Numeral-Systems\04.NumeralSystemsHW\05.ConvertHexToBin\bin\Debug\05.ConvertHexToBin.exe
+D:\Courses\CSharpPart2Winter2013-2014\04.Numeral-Systems\04.NumeralSystemsHW\05.ConvertHexToBin\bin\Debug\05.ConvertHexToBin.pdb
+D:\Courses\CSharpPart2Winter2013-2014\04.Numeral-Systems\04.NumeralSystemsHW\05.ConvertHexToBin\obj\Debug\05.ConvertHexToBin.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\04.Numeral-Systems\04.NumeralSystemsHW\05.ConvertHexToBin\obj\Debug\05.ConvertHexToBin.exe
+D:\Courses\CSharpPart2Winter2013-2014\04.Numeral-Systems\04.NumeralSystemsHW\05.ConvertHexToBin\obj\Debug\05.ConvertHexToBin.pdb

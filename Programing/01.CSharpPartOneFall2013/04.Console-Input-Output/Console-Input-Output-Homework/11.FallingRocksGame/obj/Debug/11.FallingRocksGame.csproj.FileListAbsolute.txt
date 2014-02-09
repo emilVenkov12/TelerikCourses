@@ -1,0 +1,9 @@
+D:\Projects\C#Projects\CSharpConsoleGames-master\11.FallingRocksGame\bin\Debug\11.FallingRocksGame.exe.config
+D:\Projects\C#Projects\CSharpConsoleGames-master\11.FallingRocksGame\obj\Debug\11.FallingRocksGame.csprojResolveAssemblyReference.cache
+D:\Projects\C#Projects\CSharpConsoleGames-master\11.FallingRocksGame\bin\Debug\11.FallingRocksGame.exe
+D:\Projects\C#Projects\CSharpConsoleGames-master\11.FallingRocksGame\bin\Debug\11.FallingRocksGame.pdb
+D:\Projects\C#Projects\CSharpConsoleGames-master\11.FallingRocksGame\obj\Debug\11.FallingRocksGame.exe
+D:\Projects\C#Projects\CSharpConsoleGames-master\11.FallingRocksGame\obj\Debug\11.FallingRocksGame.pdb
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\11.FallingRocksGame\bin\Debug\11.FallingRocksGame.exe.config
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\11.FallingRocksGame\obj\Debug\11.FallingRocksGame.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\11.FallingRocksGame\obj\Debug\11.FallingRocksGame.pdb

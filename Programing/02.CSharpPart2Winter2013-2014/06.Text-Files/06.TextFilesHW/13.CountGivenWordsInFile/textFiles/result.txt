@@ -1,0 +1,4 @@
+beacon -> 1
+house -> 3
+horse -> 4
+bean -> 0

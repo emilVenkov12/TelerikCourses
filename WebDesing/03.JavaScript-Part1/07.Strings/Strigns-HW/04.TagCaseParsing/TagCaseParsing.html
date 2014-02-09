@@ -1,0 +1,35 @@
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		body a#nav.clear-fix{
+			float: right;
+			margin: 10px;
+		}
+		.clear-fix:after {
+			height: 0;
+			clear: both;
+			content: '';
+			display: block;
+		}
+		textarea{
+			width: 400px;
+			height: 300px;
+		}
+	</style>
+	<script src="scripts/parseCaseTags.js"></script>
+</head>
+<body>
+	<p>4. You are given a text. Write a function that changes the text in all regions</p>	
+	<a class="clear-fix" id="nav" href="../05.ReplaceSpacesWithCode/ReplaceSpacesWithCode.html">
+		 Next Task &gt;
+	</a>
+	<a class="clear-fix" id="nav" href="../03.CheckOccOfSubstr/CheckOccOfSubstr.html">
+		&lt; Prev Task 
+	</a>
+	<textarea id="input-text" placeholder="Enter your text here..">We live in a &lt;upcase&gt;&lt;mixcase&gt;yellow submarine&lt;/mixcase&gt; and &lt;/upcase&gt;is &lt;upcase&gt;very&lt;/upcase&gt; tight &lt;lowcase&gt;HELP&lt;/lowcase&gt;</textarea>
+</br>
+	<button onClick="onParseCaseTagsBtnClick()">Parse case tags</button>
+	
+</body>
+</html>

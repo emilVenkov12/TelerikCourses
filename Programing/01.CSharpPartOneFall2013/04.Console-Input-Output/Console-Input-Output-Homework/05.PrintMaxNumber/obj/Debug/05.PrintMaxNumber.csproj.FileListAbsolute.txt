@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\05.PrintMaxNumber\bin\Debug\05.PrintMaxNumber.exe.config
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\05.PrintMaxNumber\bin\Debug\05.PrintMaxNumber.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\05.PrintMaxNumber\bin\Debug\05.PrintMaxNumber.pdb
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\05.PrintMaxNumber\obj\Debug\05.PrintMaxNumber.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\05.PrintMaxNumber\obj\Debug\05.PrintMaxNumber.pdb

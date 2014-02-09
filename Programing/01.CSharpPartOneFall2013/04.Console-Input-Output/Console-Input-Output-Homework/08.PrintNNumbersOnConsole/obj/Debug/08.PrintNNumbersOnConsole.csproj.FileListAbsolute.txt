@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\08.PrintNNumbersOnConsole\bin\Debug\08.PrintNNumbersOnConsole.exe.config
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\08.PrintNNumbersOnConsole\bin\Debug\08.PrintNNumbersOnConsole.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\08.PrintNNumbersOnConsole\bin\Debug\08.PrintNNumbersOnConsole.pdb
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\08.PrintNNumbersOnConsole\obj\Debug\08.PrintNNumbersOnConsole.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\08.PrintNNumbersOnConsole\obj\Debug\08.PrintNNumbersOnConsole.pdb

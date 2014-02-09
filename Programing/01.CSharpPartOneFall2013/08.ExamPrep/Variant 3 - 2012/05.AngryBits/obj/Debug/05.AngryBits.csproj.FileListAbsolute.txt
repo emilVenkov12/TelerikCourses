@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Variant 3 - 2012\05.AngryBits\bin\Debug\05.AngryBits.exe.config
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Variant 3 - 2012\05.AngryBits\bin\Debug\05.AngryBits.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Variant 3 - 2012\05.AngryBits\bin\Debug\05.AngryBits.pdb
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Variant 3 - 2012\05.AngryBits\obj\Debug\05.AngryBits.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Variant 3 - 2012\05.AngryBits\obj\Debug\05.AngryBits.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Variant 3 - 2012\05.AngryBits\obj\Debug\05.AngryBits.pdb

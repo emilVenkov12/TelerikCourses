@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\05.SortsStringArrayByItsElemLenghts\bin\Debug\05.SortsStringArrayByItsElemLenghts.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\05.SortsStringArrayByItsElemLenghts\bin\Debug\05.SortsStringArrayByItsElemLenghts.exe
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\05.SortsStringArrayByItsElemLenghts\bin\Debug\05.SortsStringArrayByItsElemLenghts.pdb
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\05.SortsStringArrayByItsElemLenghts\obj\Debug\05.SortsStringArrayByItsElemLenghts.exe
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\05.SortsStringArrayByItsElemLenghts\obj\Debug\05.SortsStringArrayByItsElemLenghts.pdb
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\05.SortsStringArrayByItsElemLenghts\obj\Debug\05.SortsStringArrayByItsElemLenghts.csprojResolveAssemblyReference.cache

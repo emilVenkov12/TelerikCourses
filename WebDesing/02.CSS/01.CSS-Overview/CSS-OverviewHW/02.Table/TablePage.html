@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<title>Table Page</title>
+	<style type="text/css" media="screen">
+		table
+		{
+			border: 1px solid #D5D4C3;
+			border-collapse:collapse;
+			font-family:Arial,sans-serif;
+			font-size:14px;
+		}
+		thead
+		{
+			color:#fff;
+			background-color:#58BB06;
+			padding:5px;
+		}
+		td
+		{
+			border: 1px solid #D5D4C3;
+			border-collapse:collapse;
+			padding:5px;
+			padding-right:30px;
+		}
+		table tr:nth-child(2n)
+		{
+			background-color:#ECECD8;
+		}
+		td.country
+		{
+			padding-left:35px;
+		}
+		td.germany
+		{
+			background: url('img/Germany.png') no-repeat 5px;			
+		}
+		td.mexico
+		{
+			background: url('img/Mexico.png') no-repeat 5px;			
+		}
+		td.uk
+		{
+			background: url('img/UK.png') no-repeat 5px;			
+		}
+
+	</style>
+</head>
+
+<body>
+	<table>
+		<thead>
+			<tr>
+				<td>Contact name</td>
+				<td>City</td>
+				<td>Country</td>
+				<td>Is Promoted</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Maria Anders</td>
+				<td>Berlin</td>
+				<td class="country germany">Germany</td>
+				<td><input type="checkbox" disabled="disabled" ></td>
+			</tr>
+			<tr>
+				<td>Ana Trujillo</td>
+				<td>M&eacute;xico D.F.</td>
+				<td class=" country mexico">Mexico</td>
+				<td><input type="checkbox" disabled="disabled" ></td>
+			</tr>
+			<tr>
+				<td>Antonio Moreno</td>
+				<td>M&eacute;xico D.F.</td>
+				<td class="country mexico" >Mexico</td>
+				<td><input type="checkbox" disabled="disabled" checked="checked" ></td>
+			</tr><tr>
+				<td>Thomas Hardy</td>
+				<td>London</td>
+				<td class="country uk" >UK</td>
+				<td><input type="checkbox" disabled="disabled" ></td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+
+</html>

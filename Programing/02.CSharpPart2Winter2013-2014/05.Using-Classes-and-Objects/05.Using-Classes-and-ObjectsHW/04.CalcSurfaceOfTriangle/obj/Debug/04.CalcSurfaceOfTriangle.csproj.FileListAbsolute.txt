@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\04.CalcSurfaceOfTriangle\bin\Debug\04.CalcSurfaceOfTriangle.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\04.CalcSurfaceOfTriangle\bin\Debug\04.CalcSurfaceOfTriangle.exe
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\04.CalcSurfaceOfTriangle\bin\Debug\04.CalcSurfaceOfTriangle.pdb
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\04.CalcSurfaceOfTriangle\obj\Debug\04.CalcSurfaceOfTriangle.exe
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\04.CalcSurfaceOfTriangle\obj\Debug\04.CalcSurfaceOfTriangle.pdb
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\04.CalcSurfaceOfTriangle\obj\Debug\04.CalcSurfaceOfTriangle.csprojResolveAssemblyReference.cache

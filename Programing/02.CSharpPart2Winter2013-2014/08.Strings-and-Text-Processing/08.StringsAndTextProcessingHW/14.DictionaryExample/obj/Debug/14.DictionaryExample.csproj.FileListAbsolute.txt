@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\14.DictionaryExample\bin\Debug\14.DictionaryExample.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\14.DictionaryExample\bin\Debug\14.DictionaryExample.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\14.DictionaryExample\bin\Debug\14.DictionaryExample.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\14.DictionaryExample\obj\Debug\14.DictionaryExample.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\14.DictionaryExample\obj\Debug\14.DictionaryExample.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\14.DictionaryExample\obj\Debug\14.DictionaryExample.pdb

@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\05.FindsMaxSeqOfIncrElems\bin\Debug\05.FindsMaxSeqOfIncrElems.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\05.FindsMaxSeqOfIncrElems\bin\Debug\05.FindsMaxSeqOfIncrElems.exe
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\05.FindsMaxSeqOfIncrElems\bin\Debug\05.FindsMaxSeqOfIncrElems.pdb
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\05.FindsMaxSeqOfIncrElems\obj\Debug\05.FindsMaxSeqOfIncrElems.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\05.FindsMaxSeqOfIncrElems\obj\Debug\05.FindsMaxSeqOfIncrElems.exe
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\05.FindsMaxSeqOfIncrElems\obj\Debug\05.FindsMaxSeqOfIncrElems.pdb

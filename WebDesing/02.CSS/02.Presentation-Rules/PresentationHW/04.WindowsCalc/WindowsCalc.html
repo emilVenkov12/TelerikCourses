@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Calculator</title>
+	<link rel="stylesheet" href="styles/WindowsCalc.css" type="text/css" />
+</head>
+
+<body>
+	<div class="outer">
+		<div class="inner">
+			<ul class="menus" id="inline">
+				<li><span id="keyShortcut">V</span>iew</li>
+				<li><span id="keyShortcut">E</span>dit</li>
+				<li><span id="keyShortcut">H</span>elp</li>
+			</ul>
+            <input type="text" id="display" class="border" value="88544550" dir="rtl"/>
+			<div class="border" id="bitArea">
+            	<ul>
+                	<li>0000</li>
+                    <li>0000</li>
+                    <li>0000</li>
+                    <li>0000</li>
+                    <li>0000</li>
+                    <li>0000</li>
+                    <li>0000</li>
+                    <li>0000</li>
+                </ul>
+                <ul>
+                	<li>63&nbsp;&nbsp;</li>
+                    <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li>47&nbsp;&nbsp;</li>
+                    <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li>&nbsp;&nbsp;32</li>
+                </ul>
+                <ul>
+                	<li>0000</li>
+                    <li>0000</li>
+                    <li>0000</li>
+                    <li>0000</li>
+                    <li>0000</li>
+                    <li>0000</li>
+                    <li>0000</li>
+                    <li>0000</li>
+                </ul>
+                <ul>
+                	<li>31&nbsp;&nbsp;</li>
+                    <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li>15&nbsp;&nbsp;</li>
+                    <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                    <li>&nbsp;&nbsp;&nbsp;0</li>
+                </ul>
+			</div>
+            <div class="left">
+            	<div class="numeralSystem border">
+                	<span>
+                    	<input type="radio" name="numeralSystem" checked="checked"/>
+                        Hex
+                    </span>
+                    <span>
+                    	<input type="radio" name="numeralSystem" />
+                        Dec
+                    </span>
+                    <span>
+                    	<input type="radio" name="numeralSystem" />
+                        Oct
+                    </span>
+                    <span>
+                    	<input type="radio" name="numeralSystem" />
+                        Bin
+                    </span>
+                </div>
+                <div class="numeralSystem border">
+                	<span>
+                    	<input type="radio" name="dataSize" checked="checked"/>
+                        Qword
+                    </span>
+                    <span>
+                    	<input type="radio" name="dataSize" />
+                        Dword
+                    </span>
+                    <span>
+                    	<input type="radio" name="dataSize" />
+                        Word
+                    </span>
+                    <span>
+						<input type="radio" name="dataSize" />
+                        Byte
+                    </span>
+                </div>
+            </div>
+            <div id="buttons">
+            	<div class="row">
+                	<button class="border disabled">&nbsp;</button>
+                    <button class="border special">Mod</button>
+                    <button class="border disabled">A</button>
+                    <button class="border disabled">MC</button>
+                    <button class="border disabled">MR</button>
+                    <button class="border disabled">MS</button>
+                    <button class="border disabled">M+</button>
+                    <button class="border disabled">M-</button>
+                </div>
+                <div class="row">
+                	<button class="border special">(</button>
+                    <button class="border special">)</button>
+                    <button class="border disabled">B</button>
+                    <button class="border special">&nbsp;</button>
+                    <button class="border special">CE</button>
+                    <button class="border special">C</button>
+                    <button class="border special">±</button>
+                    <button class="border disabled">v</button>
+                </div>
+                <div class="row">
+                	<button class="border special">RoL</button>
+                    <button class="border special">RoR</button>
+                    <button class="border disabled">C</button>
+                    <button class="border special">7</button>
+                    <button class="border special">8</button>
+                    <button class="border special">9</button>
+                    <button class="border special">/</button>
+                    <button class="border disabled">%</button>
+                </div>
+                <div class="row">
+                	<button class="border special">Or</button>
+                    <button class="border special">Xor</button>
+                    <button class="border disabled">D</button>
+                    <button class="border special">4</button>
+                    <button class="border special">5</button>
+                    <button class="border special">6</button>
+                    <button class="border special">*</button>
+                    <button class="border special">1/x</button>
+                </div>
+                <button id="equalButton" class="border special">=</button>
+                <div class="row">
+                	<button class="border special">Lsh</button>
+                    <button class="border special">Rsh</button>
+                    <button class="border disabled">E</button>
+                    <button class="border special">1</button>
+                    <button class="border special">2</button>
+                    <button class="border special">3</button>
+                    <button class="border special">-</button>
+                </div>
+                
+                
+                <div class="row">
+                	<button class="border special">Not</button>
+                    <button class="border special">And</button>
+                    <button class="border disabled">F</button>
+                    <button id="zeroButton" class="border special">0</button>
+                    <button class="border disabled">,</button>
+                    <button class="border special">+</button>
+                </div>
+            </div>
+		</div>
+	</div>
+</body>
+</html>

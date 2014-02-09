@@ -1,0 +1,40 @@
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		body a#nav.clear-fix{
+			float: right;
+			margin: 10px;
+		}
+		.clear-fix:after {
+			height: 0;
+			clear: both;
+			content: '';
+			display: block;
+		}
+		textarea{
+			width: 400px;
+			height: 300px;
+		}
+		div#output{
+			font: bold 1em/1.5 sans-serif;
+		}
+	</style>
+	<script src="scripts/checkSubstrOcc.js"></script>
+</head>
+<body>
+	<p>3. Write a JavaScript function that finds how many times a substring is contained in a given text (perform case insensitive search).</p>	
+	<a class="clear-fix" id="nav" href="../04.TagCaseParsing/TagCaseParsing.html">
+		 Next Task &gt;
+	</a>
+	<a class="clear-fix" id="nav" href="../02.CheckExpBracket/CheckExpBrackets.html">
+		&lt; Prev Task 
+	</a>
+	<textarea id="input-text" placeholder="Enter your text here..">We are living in an yellow submarine.We dont have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days</textarea>
+</br>
+	<label for="input-substr">Enter substrig: </label>
+	<input type="text" id="input-substr" value="in">
+	<button onClick="onCountSubstrBtnClick()">Count substr</button>
+	<div id="output"></div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\10.PrintsAllDeckCards\bin\Debug\10.PrintsAllDeckCards.exe.config
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\10.PrintsAllDeckCards\bin\Debug\10.PrintsAllDeckCards.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\10.PrintsAllDeckCards\bin\Debug\10.PrintsAllDeckCards.pdb
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\10.PrintsAllDeckCards\obj\Debug\10.PrintsAllDeckCards.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\10.PrintsAllDeckCards\obj\Debug\10.PrintsAllDeckCards.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\10.PrintsAllDeckCards\obj\Debug\10.PrintsAllDeckCards.pdb

@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\25.ExtractsHtmlTitleAndBody\bin\Debug\25.ExtractsHtmlTitleAndBody.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\25.ExtractsHtmlTitleAndBody\bin\Debug\25.ExtractsHtmlTitleAndBody.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\25.ExtractsHtmlTitleAndBody\bin\Debug\25.ExtractsHtmlTitleAndBody.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\25.ExtractsHtmlTitleAndBody\obj\Debug\25.ExtractsHtmlTitleAndBody.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\25.ExtractsHtmlTitleAndBody\obj\Debug\25.ExtractsHtmlTitleAndBody.pdb

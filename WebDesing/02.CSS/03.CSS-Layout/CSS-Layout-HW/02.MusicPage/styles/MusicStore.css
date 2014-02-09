@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+div.container{
+	width:400px;
+	margin:0 auto;
+	background-color:#DDD;
+	border:1px solid #DDD;
+	border-radius:2px;
+	font-size:14px;
+	font-family:Calibri;
+}
+span#title{
+	position:relative;
+	top:10px;
+	margin: 0 5px ;
+	padding-top:20px;
+	font-size:16px;
+	font-family:'Arial Narrow';
+}
+span#bold{
+	font-weight:bold;
+}
+div.section{
+	width:auto;
+	height:auto;
+	border:1px solid gray;
+	margin:40px 10px 10px 10px;
+	background-color:white;
+	outline:none;
+}
+div.section img{
+	margin:10px 0 10px 10px;
+}
+div#description{
+	float:right;
+}
+div.section div#image{
+	float:left;
+	width:100px;
+	margin:12px 0 10px 10px;
+	margin:0;
+	padding:0;
+}
+div.section div#text{
+	float:right;
+	height:auto;
+	width:200px;
+	margin:10px 20px 5px 0;
+}
+div#description div#buttons{
+	text-align:right;
+	width:auto;
+	margin:76px 20px 0 0;
+}
+
+.clearfix{
+	zoom:1;
+}
+.clearfix:after{
+	content:"";
+	display:block;
+	height:0;
+	clear:both;
+}
+button{
+	margin-left:5px;
+	color:white;
+	border:1px solid darkred;
+	font-size:11px;
+	height:23px;
+	background: #8a0000; /* Old browsers */
+	background: -moz-linear-gradient(left,  #8a0000 0%, #8a0000 23%, #cb0000 23%, #cd0000 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#8a0000), color-stop(23%,#8a0000), color-stop(23%,#cb0000), color-stop(100%,#cd0000)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left,  #8a0000 0%,#8a0000 23%,#cb0000 23%,#cd0000 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left,  #8a0000 0%,#8a0000 23%,#cb0000 23%,#cd0000 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left,  #8a0000 0%,#8a0000 23%,#cb0000 23%,#cd0000 100%); /* IE10+ */
+	background: linear-gradient(to right,  #8a0000 0%,#8a0000 23%,#cb0000 23%,#cd0000 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8a0000', endColorstr='#cd0000',GradientType=1 ); /* IE6-9 */
+}
+button#add{
+	width:50px;
+}
+button#listen{
+	width:60px;
+
+}
+

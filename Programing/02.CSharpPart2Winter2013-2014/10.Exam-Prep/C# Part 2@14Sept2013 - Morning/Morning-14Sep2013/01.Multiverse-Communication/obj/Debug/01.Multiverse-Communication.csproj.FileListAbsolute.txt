@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\C# Part 2@14Sept2013 - Morning\Morning-14Sep2013\01.Multiverse-Communication\bin\Debug\01.Multiverse-Communication.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\C# Part 2@14Sept2013 - Morning\Morning-14Sep2013\01.Multiverse-Communication\obj\Debug\01.Multiverse-Communication.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\C# Part 2@14Sept2013 - Morning\Morning-14Sep2013\01.Multiverse-Communication\bin\Debug\01.Multiverse-Communication.exe
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\C# Part 2@14Sept2013 - Morning\Morning-14Sep2013\01.Multiverse-Communication\bin\Debug\01.Multiverse-Communication.pdb
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\C# Part 2@14Sept2013 - Morning\Morning-14Sep2013\01.Multiverse-Communication\obj\Debug\01.Multiverse-Communication.exe
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\C# Part 2@14Sept2013 - Morning\Morning-14Sep2013\01.Multiverse-Communication\obj\Debug\01.Multiverse-Communication.pdb

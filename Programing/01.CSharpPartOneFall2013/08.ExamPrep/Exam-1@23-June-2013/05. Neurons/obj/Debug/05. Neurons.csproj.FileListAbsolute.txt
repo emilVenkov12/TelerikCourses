@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\05. Neurons\bin\Debug\_05.Neurons.exe.config
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\05. Neurons\bin\Debug\_05.Neurons.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\05. Neurons\bin\Debug\_05.Neurons.pdb
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\05. Neurons\obj\Debug\05. Neurons.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\05. Neurons\obj\Debug\_05.Neurons.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\05. Neurons\obj\Debug\_05.Neurons.pdb

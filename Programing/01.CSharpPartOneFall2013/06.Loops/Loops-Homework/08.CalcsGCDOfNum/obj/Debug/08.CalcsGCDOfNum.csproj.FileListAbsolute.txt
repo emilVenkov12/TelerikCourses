@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\08.CalcsGCDOfNum\bin\Debug\08.CalcsGCDOfNum.exe.config
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\08.CalcsGCDOfNum\bin\Debug\08.CalcsGCDOfNum.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\08.CalcsGCDOfNum\bin\Debug\08.CalcsGCDOfNum.pdb
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\08.CalcsGCDOfNum\obj\Debug\08.CalcsGCDOfNum.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\08.CalcsGCDOfNum\obj\Debug\08.CalcsGCDOfNum.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\08.CalcsGCDOfNum\obj\Debug\08.CalcsGCDOfNum.pdb

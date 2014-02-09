@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\011.PrintColeredSpiralMatrix\bin\Debug\011.PrintColeredSpiralMatrix.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\011.PrintColeredSpiralMatrix\bin\Debug\011.PrintColeredSpiralMatrix.exe
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\011.PrintColeredSpiralMatrix\bin\Debug\011.PrintColeredSpiralMatrix.pdb
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\011.PrintColeredSpiralMatrix\obj\Debug\011.PrintColeredSpiralMatrix.exe
+D:\Courses\CSharpPart2Winter2013-2014\02.Multidimensional-Arrays\02.Multidimensional-Arrays-HW\011.PrintColeredSpiralMatrix\obj\Debug\011.PrintColeredSpiralMatrix.pdb

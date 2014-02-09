@@ -1,0 +1,41 @@
+<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style type="text/css">
+		body a#nav.clear-fix{
+			float: right;
+			margin: 10px;
+		}
+		.clear-fix:after {
+			height: 0;
+			clear: both;
+			content: '';
+			display: block;
+		}
+		textarea{
+			width: 400px;
+			height: 300px;
+		}
+		div#output{
+			font: bold 1em/1.5 sans-serif;
+		}
+	</style>
+	<script src="scripts/replaceHtmlTags.js"></script>
+</head>
+<body>
+	<p>8. Write a JavaScript function that replaces in a HTML document given as string all the tags &lt;a href="..."&gt;...&lt;/a&gt; with corresponding tags [URL=...]..[/URL].</p>	
+	<a class="clear-fix" id="nav" href="../09.ExtractAllEmailAddresses/ExtractAllEmailAddresses.html">
+		 Next Task &gt;
+	</a>
+	<a class="clear-fix" id="nav" href="../07.ParseUrlAddress/ParseUrlAddress.html">
+		&lt; Prev Task 
+	</a>
+	<textarea id="input-text" placeholder="Enter your text here.."></textarea>
+</br>
+	<button onClick="onReplaceTagBtnClick()">Replace a tag</button>
+	
+	<button onClick="onGenerateDemoBtnClick()">Generate demo</button>
+	<div id="output"></div>
+</body>
+</html>

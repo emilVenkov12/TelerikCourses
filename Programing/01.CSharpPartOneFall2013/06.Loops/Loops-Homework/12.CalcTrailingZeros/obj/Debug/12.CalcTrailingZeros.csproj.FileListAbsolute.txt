@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\12.CalcTrailingZeros\bin\Debug\12.CalcTrailingZeros.exe.config
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\12.CalcTrailingZeros\bin\Debug\12.CalcTrailingZeros.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\12.CalcTrailingZeros\bin\Debug\12.CalcTrailingZeros.pdb
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\12.CalcTrailingZeros\obj\Debug\12.CalcTrailingZeros.exe
+D:\Courses\CSharpPart1Fall2013\06.Loops\Loops-Homework\12.CalcTrailingZeros\obj\Debug\12.CalcTrailingZeros.pdb

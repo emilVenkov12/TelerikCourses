@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\04.SortsThreeRealValuesDesc\bin\Debug\04.SortsThreeRealValuesDesc.exe.config
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\04.SortsThreeRealValuesDesc\obj\Debug\04.SortsThreeRealValuesDesc.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\04.SortsThreeRealValuesDesc\bin\Debug\04.SortsThreeRealValuesDesc.exe
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\04.SortsThreeRealValuesDesc\bin\Debug\04.SortsThreeRealValuesDesc.pdb
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\04.SortsThreeRealValuesDesc\obj\Debug\04.SortsThreeRealValuesDesc.exe
+D:\Courses\CSharpPart1Fall2013\05.Conditional-Statements\Conditional-Statements-Homework\04.SortsThreeRealValuesDesc\obj\Debug\04.SortsThreeRealValuesDesc.pdb

@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\16.FindsGivenSubsetSum\bin\Debug\16.FindsGivenSubsetSum.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\16.FindsGivenSubsetSum\obj\Debug\16.FindsGivenSubsetSum.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\16.FindsGivenSubsetSum\bin\Debug\16.FindsGivenSubsetSum.exe
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\16.FindsGivenSubsetSum\bin\Debug\16.FindsGivenSubsetSum.pdb
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\16.FindsGivenSubsetSum\obj\Debug\16.FindsGivenSubsetSum.exe
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\16.FindsGivenSubsetSum\obj\Debug\16.FindsGivenSubsetSum.pdb

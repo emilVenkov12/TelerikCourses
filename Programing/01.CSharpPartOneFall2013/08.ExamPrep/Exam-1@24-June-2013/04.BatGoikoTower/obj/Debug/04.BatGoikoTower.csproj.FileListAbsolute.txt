@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@24-June-2013\04.BatGoikoTower\bin\Debug\04.BatGoikoTower.exe.config
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@24-June-2013\04.BatGoikoTower\bin\Debug\04.BatGoikoTower.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@24-June-2013\04.BatGoikoTower\bin\Debug\04.BatGoikoTower.pdb
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@24-June-2013\04.BatGoikoTower\obj\Debug\04.BatGoikoTower.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@24-June-2013\04.BatGoikoTower\obj\Debug\04.BatGoikoTower.pdb
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@24-June-2013\04.BatGoikoTower\obj\Debug\04.BatGoikoTower.csprojResolveAssemblyReference.cache

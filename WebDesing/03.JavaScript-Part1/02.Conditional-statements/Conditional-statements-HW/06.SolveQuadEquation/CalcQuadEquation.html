@@ -1,0 +1,25 @@
+<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<script src="scripts/calcQuadEquation.js"></script>
+</head>
+<body>
+	<p>6.	Write a script that enters the coefficients a, b and c of a quadratic equation
+		a*x2 + b*x + c = 0 and calculates and prints its real roots. Note that quadratic equations may have 0, 1 or 2 real roots.
+	</p>
+	<label for="inputCoefA">Enter coef. a: </label>
+	<input type="text" id="inputCoefA" value="1">
+	<label for="inputCoefB">Enter coef. b: </label>
+	<input type="text" id="inputCoefB" value="1">
+	<label for="inputCoefC">Enter coef. c: </label>
+	<input type="text" id="inputCoefC" value="1">
+	<button onClick="calcQuadEquation(document.getElementById('inputCoefA').value, 
+		document.getElementById('inputCoefB').value,
+		document.getElementById('inputCoefC').value)">Examine!</button>
+
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	
+</body>
+</html>

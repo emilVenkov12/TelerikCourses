@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\AlgoAcademy-April-2012\02.SuperSum\bin\Debug\02.SuperSum.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\AlgoAcademy-April-2012\02.SuperSum\bin\Debug\02.SuperSum.exe
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\AlgoAcademy-April-2012\02.SuperSum\bin\Debug\02.SuperSum.pdb
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\AlgoAcademy-April-2012\02.SuperSum\obj\Debug\02.SuperSum.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\AlgoAcademy-April-2012\02.SuperSum\obj\Debug\02.SuperSum.exe
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\AlgoAcademy-April-2012\02.SuperSum\obj\Debug\02.SuperSum.pdb

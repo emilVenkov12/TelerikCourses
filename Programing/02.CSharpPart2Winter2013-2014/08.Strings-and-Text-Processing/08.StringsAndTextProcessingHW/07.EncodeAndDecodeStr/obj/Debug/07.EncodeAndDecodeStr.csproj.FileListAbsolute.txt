@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\07.EncodeAndDecodeStr\bin\Debug\07.EncodeAndDecodeStr.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\07.EncodeAndDecodeStr\bin\Debug\07.EncodeAndDecodeStr.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\07.EncodeAndDecodeStr\bin\Debug\07.EncodeAndDecodeStr.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\07.EncodeAndDecodeStr\obj\Debug\07.EncodeAndDecodeStr.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\07.EncodeAndDecodeStr\obj\Debug\07.EncodeAndDecodeStr.pdb

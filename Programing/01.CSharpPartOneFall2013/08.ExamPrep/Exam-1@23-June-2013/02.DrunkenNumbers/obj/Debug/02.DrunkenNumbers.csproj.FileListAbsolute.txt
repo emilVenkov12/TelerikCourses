@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.exe.config
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.pdb
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.pdb
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\AlgoAcademy-April-2012\04.Guitar\bin\Debug\04.Guitar.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\AlgoAcademy-April-2012\04.Guitar\bin\Debug\04.Guitar.exe
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\AlgoAcademy-April-2012\04.Guitar\bin\Debug\04.Guitar.pdb
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\AlgoAcademy-April-2012\04.Guitar\obj\Debug\04.Guitar.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\AlgoAcademy-April-2012\04.Guitar\obj\Debug\04.Guitar.exe
+D:\Courses\CSharpPart2Winter2013-2014\10.Exam-Prep\AlgoAcademy-April-2012\04.Guitar\obj\Debug\04.Guitar.pdb

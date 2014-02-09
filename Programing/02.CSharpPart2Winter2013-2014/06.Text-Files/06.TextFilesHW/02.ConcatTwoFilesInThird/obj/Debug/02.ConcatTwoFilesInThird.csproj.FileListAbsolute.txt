@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\02.ConcatTwoFilesInThird\bin\Debug\02.ConcatTwoFilesInThird.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\02.ConcatTwoFilesInThird\obj\Debug\02.ConcatTwoFilesInThird.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\02.ConcatTwoFilesInThird\bin\Debug\02.ConcatTwoFilesInThird.exe
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\02.ConcatTwoFilesInThird\bin\Debug\02.ConcatTwoFilesInThird.pdb
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\02.ConcatTwoFilesInThird\obj\Debug\02.ConcatTwoFilesInThird.exe
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\02.ConcatTwoFilesInThird\obj\Debug\02.ConcatTwoFilesInThird.pdb

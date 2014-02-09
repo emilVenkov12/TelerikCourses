@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\18.SortThroughRemoveElems\bin\Debug\18.SortThroughRemoveElems.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\18.SortThroughRemoveElems\bin\Debug\18.SortThroughRemoveElems.exe
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\18.SortThroughRemoveElems\bin\Debug\18.SortThroughRemoveElems.pdb
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\18.SortThroughRemoveElems\obj\Debug\18.SortThroughRemoveElems.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\18.SortThroughRemoveElems\obj\Debug\18.SortThroughRemoveElems.exe
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\18.SortThroughRemoveElems\obj\Debug\18.SortThroughRemoveElems.pdb

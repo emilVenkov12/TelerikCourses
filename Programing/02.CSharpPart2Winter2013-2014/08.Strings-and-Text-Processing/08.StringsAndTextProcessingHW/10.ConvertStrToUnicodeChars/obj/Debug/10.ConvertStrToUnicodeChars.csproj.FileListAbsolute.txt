@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\10.ConvertStrToUnicodeChars\bin\Debug\10.ConvertStrToUnicodeChars.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\10.ConvertStrToUnicodeChars\bin\Debug\10.ConvertStrToUnicodeChars.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\10.ConvertStrToUnicodeChars\bin\Debug\10.ConvertStrToUnicodeChars.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\10.ConvertStrToUnicodeChars\obj\Debug\10.ConvertStrToUnicodeChars.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\10.ConvertStrToUnicodeChars\obj\Debug\10.ConvertStrToUnicodeChars.pdb

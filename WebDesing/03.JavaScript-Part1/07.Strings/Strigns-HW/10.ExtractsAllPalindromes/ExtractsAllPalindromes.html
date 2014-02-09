@@ -1,0 +1,40 @@
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		body a#nav.clear-fix{
+			float: right;
+			margin: 10px;
+		}
+		.clear-fix:after {
+			height: 0;
+			clear: both;
+			content: '';
+			display: block;
+		}
+		textarea{
+			width: 400px;
+			height: 300px;
+		}
+		div#output{
+			font: bold 1em/1.5 sans-serif;
+		}
+	</style>
+	<script src="scripts/extractsAllPalindromes.js"></script>
+</head>
+<body>
+	<p>10. Write a program that extracts from a given text all palindromes, e.g. "ABBA", "lamal", "exe".</p>	
+	<a class="clear-fix" id="nav" href="../11.StringFormat/StringFormat.html">
+		 Next Task &gt;
+	</a>
+	<a class="clear-fix" id="nav" href="../09.ExtractAllEmailAddresses/ExtractAllEmailAddresses.html">
+		&lt; Prev Task 
+	</a>
+	<textarea id="input-text" placeholder="Enter your text here.."></textarea>
+</br>
+	<button onClick="onExtractBtnClick()">Extract all palindromes</button>
+	<button onClick="onGenerateDemoBtnClick()">Generate demo</button>
+	<div id="output"></div>
+	
+</body>
+</html>

@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\07.Exception-Handling\07.Exception-Handling\04.DownloadsFileFromInternet\bin\Debug\04.DownloadsFileFromInternet.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\07.Exception-Handling\07.Exception-Handling\04.DownloadsFileFromInternet\bin\Debug\04.DownloadsFileFromInternet.exe
+D:\Courses\CSharpPart2Winter2013-2014\07.Exception-Handling\07.Exception-Handling\04.DownloadsFileFromInternet\bin\Debug\04.DownloadsFileFromInternet.pdb
+D:\Courses\CSharpPart2Winter2013-2014\07.Exception-Handling\07.Exception-Handling\04.DownloadsFileFromInternet\obj\Debug\04.DownloadsFileFromInternet.exe
+D:\Courses\CSharpPart2Winter2013-2014\07.Exception-Handling\07.Exception-Handling\04.DownloadsFileFromInternet\obj\Debug\04.DownloadsFileFromInternet.pdb

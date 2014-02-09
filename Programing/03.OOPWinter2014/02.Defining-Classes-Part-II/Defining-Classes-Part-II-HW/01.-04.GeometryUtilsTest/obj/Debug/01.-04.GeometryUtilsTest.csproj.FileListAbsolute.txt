@@ -1,0 +1,8 @@
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\01.-04.GeometryUtilsTest\bin\Debug\01.-04.GeometryUtilsTest.exe.config
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\01.-04.GeometryUtilsTest\bin\Debug\01.-04.GeometryUtilsTest.exe
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\01.-04.GeometryUtilsTest\bin\Debug\01.-04.GeometryUtilsTest.pdb
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\01.-04.GeometryUtilsTest\bin\Debug\GeometryUtils.dll
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\01.-04.GeometryUtilsTest\bin\Debug\GeometryUtils.pdb
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\01.-04.GeometryUtilsTest\obj\Debug\01.-04.GeometryUtilsTest.csprojResolveAssemblyReference.cache
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\01.-04.GeometryUtilsTest\obj\Debug\01.-04.GeometryUtilsTest.exe
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\01.-04.GeometryUtilsTest\obj\Debug\01.-04.GeometryUtilsTest.pdb

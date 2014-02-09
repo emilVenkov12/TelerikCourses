@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		body a#nav.clear-fix{
+			float: right;
+			margin: 10px;
+		}
+		.clear-fix:after {
+			height: 0;
+			clear: both;
+			content: '';
+			display: block;
+		}
+		div#output{
+			font: bold 1em/1.5 sans-serif;
+		}
+		#input-url{
+			width: 350px;
+		}
+	</style>
+	<script src="scripts/parseUrlAddress.js"></script>
+</head>
+<body>
+	<p>7. Write a script that parses an URL address given in the format:[protocol]://[server]/[resource] and extracts from it the [protocol], [server] and [resource] elements. Return the elements in a JSON object.</p>	
+	<a class="clear-fix" id="nav" href="../08.ReplaceHtmlTags/ReplaceHtmlTags.html">
+		 Next Task &gt;
+	</a>
+	<a class="clear-fix" id="nav" href="../06.GetHtmlTagContent/GetHtmlTagsContent.html">
+		&lt; Prev Task 
+	</a>
+	<label for="input-url">Enter a URL address: </label>
+	<input type="text" id="input-url" value="http://www.devbg.org/forum/index.php">
+</br>
+	<button onClick="onParseUrlBtnClick()">Parse URL</button>
+	<div id="output"></div>
+	
+</body>
+</html>

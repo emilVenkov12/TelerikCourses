@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\07.SumOfNNumbers\bin\Debug\07.SumOfNNumbers.exe.config
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\07.SumOfNNumbers\bin\Debug\07.SumOfNNumbers.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\07.SumOfNNumbers\bin\Debug\07.SumOfNNumbers.pdb
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\07.SumOfNNumbers\obj\Debug\07.SumOfNNumbers.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\07.SumOfNNumbers\obj\Debug\07.SumOfNNumbers.pdb

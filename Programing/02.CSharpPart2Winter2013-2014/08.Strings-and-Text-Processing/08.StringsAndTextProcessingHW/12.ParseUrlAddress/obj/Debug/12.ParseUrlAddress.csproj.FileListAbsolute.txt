@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\12.ParseUrlAddress\bin\Debug\12.ParseUrlAddress.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\12.ParseUrlAddress\obj\Debug\12.ParseUrlAddress.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\12.ParseUrlAddress\bin\Debug\12.ParseUrlAddress.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\12.ParseUrlAddress\bin\Debug\12.ParseUrlAddress.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\12.ParseUrlAddress\obj\Debug\12.ParseUrlAddress.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\12.ParseUrlAddress\obj\Debug\12.ParseUrlAddress.pdb

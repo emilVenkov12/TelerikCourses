@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\03.PrintsDayOfWeek\bin\Debug\03.PrintsDayOfWeek.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\03.PrintsDayOfWeek\obj\Debug\03.PrintsDayOfWeek.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\03.PrintsDayOfWeek\bin\Debug\03.PrintsDayOfWeek.exe
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\03.PrintsDayOfWeek\bin\Debug\03.PrintsDayOfWeek.pdb
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\03.PrintsDayOfWeek\obj\Debug\03.PrintsDayOfWeek.exe
+D:\Courses\CSharpPart2Winter2013-2014\05.Using-Classes-and-Objects\05.Using-Classes-and-ObjectsHW\03.PrintsDayOfWeek\obj\Debug\03.PrintsDayOfWeek.pdb

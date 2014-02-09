@@ -1,0 +1,38 @@
+<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style type="text/css">
+		body a#nav.clear-fix{
+			float: right;
+			margin: 10px;
+		}
+		.clear-fix:after {
+			height: 0;
+			clear: both;
+			content: '';
+			display: block;
+		}
+		textarea{
+			width: 400px;
+			height: 300px;
+		}
+		div#output{
+			font: bold 1em/1.5 sans-serif;
+		}
+	</style>
+	<script src="scripts/stringFormat.js"></script>
+</head>
+<body>
+	<p>11.Write a function that formats a string using placeholders.</p>	
+	<a class="clear-fix" id="nav" href="../12.CreatesULByTemplate/CreatesULByTemplate.html">
+		 Next Task &gt;
+	</a>
+	<a class="clear-fix" id="nav" href="../10.ExtractsAllPalindromes/ExtractsAllPalindromes.html">
+		&lt; Prev Task 
+	</a>
+	<button onClick="onUseDemoBtnClick()">Use hardcoded demo</button>
+	<div id="output"></div>
+	
+</body>
+</html>

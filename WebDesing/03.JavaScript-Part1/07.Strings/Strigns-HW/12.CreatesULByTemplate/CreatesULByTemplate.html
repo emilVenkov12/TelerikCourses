@@ -1,0 +1,39 @@
+<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<style type="text/css">
+		body a#nav.clear-fix{
+			float: right;
+			margin: 10px;
+		}
+		.clear-fix:after {
+			height: 0;
+			clear: both;
+			content: '';
+			display: block;
+		}
+		div#list-item{
+			font: 1em/1.5 sans-serif;
+		}
+	</style>
+	<script src="scripts/createsULByTemplate.js"></script>
+</head>
+<body>
+	<p>12. Write a function that creates a HTML UL using a template for every HTML LI. The source of the list should an array of elements. Replace all placeholders marked with -{}- with the value of the corresponding property of the object. Example:
+		&lt;div data-type="template" id="list-item"&gt;
+ &lt;strong&gt;-{name}-&lt;/strong&gt; &lt;span&gt;-{age}-&lt;/span&gt;
+&lt;/div&gt;</p>	
+	<a class="clear-fix" id="nav" href="../01.ReverseString/ReverseString.html">
+		 Next Task &gt;
+	</a>
+	<a class="clear-fix" id="nav" href="../11.StringFormat/StringFormat.html">
+		&lt; Prev Task 
+	</a>
+	<button onClick="onGenerateListBtnClick()">Generate ul list</button>
+	<div data-type="template" id="list-item">
+ 		<strong>-{name}-</strong> <span>-{age}-</span>
+	</div>
+	
+</body>
+</html>

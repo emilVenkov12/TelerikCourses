@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\09.ReplaceWords\bin\Debug\09.ReplaceWords.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\09.ReplaceWords\bin\Debug\09.ReplaceWords.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\09.ReplaceWords\bin\Debug\09.ReplaceWords.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\09.ReplaceWords\obj\Debug\09.ReplaceWords.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\09.ReplaceWords\obj\Debug\09.ReplaceWords.pdb

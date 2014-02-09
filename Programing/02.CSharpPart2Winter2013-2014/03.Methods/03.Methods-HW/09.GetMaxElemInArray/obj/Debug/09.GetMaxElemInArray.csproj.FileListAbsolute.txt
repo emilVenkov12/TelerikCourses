@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\09.GetMaxElemInArray\bin\Debug\09.GetMaxElemInArray.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\09.GetMaxElemInArray\bin\Debug\09.GetMaxElemInArray.exe
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\09.GetMaxElemInArray\bin\Debug\09.GetMaxElemInArray.pdb
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\09.GetMaxElemInArray\obj\Debug\09.GetMaxElemInArray.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\09.GetMaxElemInArray\obj\Debug\09.GetMaxElemInArray.exe
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\09.GetMaxElemInArray\obj\Debug\09.GetMaxElemInArray.pdb

@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\13.ThreeTaskProgram\bin\Debug\13.ThreeTaskProgram.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\13.ThreeTaskProgram\obj\Debug\13.ThreeTaskProgram.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\13.ThreeTaskProgram\bin\Debug\13.ThreeTaskProgram.exe
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\13.ThreeTaskProgram\bin\Debug\13.ThreeTaskProgram.pdb
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\13.ThreeTaskProgram\obj\Debug\13.ThreeTaskProgram.exe
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\13.ThreeTaskProgram\obj\Debug\13.ThreeTaskProgram.pdb

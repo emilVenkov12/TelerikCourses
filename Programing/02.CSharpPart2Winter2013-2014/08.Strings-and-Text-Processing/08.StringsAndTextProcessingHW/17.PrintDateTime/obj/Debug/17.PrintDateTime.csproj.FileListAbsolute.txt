@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\17.PrintDateTime\bin\Debug\17.PrintDateTime.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\17.PrintDateTime\bin\Debug\17.PrintDateTime.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\17.PrintDateTime\bin\Debug\17.PrintDateTime.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\17.PrintDateTime\obj\Debug\17.PrintDateTime.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\17.PrintDateTime\obj\Debug\17.PrintDateTime.pdb

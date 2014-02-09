@@ -1,0 +1,2 @@
+D:\Courses\03.OOPWinter2014\03.Extension-Methods-Delegates\Extension-Methods-Delegates-HW\02.IEnumerableExtMethods\bin\Debug\02.IEnumerableExtMethods.exe.config
+D:\Courses\03.OOPWinter2014\03.Extension-Methods-Delegates\Extension-Methods-Delegates-HW\02.IEnumerableExtMethods\obj\Debug\02.IEnumerableExtMethods.csprojResolveAssemblyReference.cache

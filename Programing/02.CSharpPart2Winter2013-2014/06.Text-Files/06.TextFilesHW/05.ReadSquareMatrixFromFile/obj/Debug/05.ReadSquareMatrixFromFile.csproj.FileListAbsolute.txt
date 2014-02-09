@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\05.ReadSquareMatrixFromFile\bin\Debug\05.ReadSquareMatrixFromFile.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\05.ReadSquareMatrixFromFile\obj\Debug\05.ReadSquareMatrixFromFile.csprojResolveAssemblyReference.cache
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\05.ReadSquareMatrixFromFile\bin\Debug\05.ReadSquareMatrixFromFile.exe
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\05.ReadSquareMatrixFromFile\bin\Debug\05.ReadSquareMatrixFromFile.pdb
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\05.ReadSquareMatrixFromFile\obj\Debug\05.ReadSquareMatrixFromFile.exe
+D:\Courses\CSharpPart2Winter2013-2014\06.Text-Files\06.TextFilesHW\05.ReadSquareMatrixFromFile\obj\Debug\05.ReadSquareMatrixFromFile.pdb

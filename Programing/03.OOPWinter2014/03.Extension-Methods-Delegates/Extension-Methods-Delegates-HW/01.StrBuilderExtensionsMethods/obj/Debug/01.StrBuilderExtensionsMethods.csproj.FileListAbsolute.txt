@@ -1,0 +1,6 @@
+D:\Courses\03.OOPWinter2014\03.Extension-Methods-Delegates\Extension-Methods-Delegates-HW\01.StrBuilderExtensionsMethods\bin\Debug\01.StrBuilderExtensionsMethods.exe.config
+D:\Courses\03.OOPWinter2014\03.Extension-Methods-Delegates\Extension-Methods-Delegates-HW\01.StrBuilderExtensionsMethods\bin\Debug\01.StrBuilderExtensionsMethods.exe
+D:\Courses\03.OOPWinter2014\03.Extension-Methods-Delegates\Extension-Methods-Delegates-HW\01.StrBuilderExtensionsMethods\bin\Debug\01.StrBuilderExtensionsMethods.pdb
+D:\Courses\03.OOPWinter2014\03.Extension-Methods-Delegates\Extension-Methods-Delegates-HW\01.StrBuilderExtensionsMethods\obj\Debug\01.StrBuilderExtensionsMethods.csprojResolveAssemblyReference.cache
+D:\Courses\03.OOPWinter2014\03.Extension-Methods-Delegates\Extension-Methods-Delegates-HW\01.StrBuilderExtensionsMethods\obj\Debug\01.StrBuilderExtensionsMethods.exe
+D:\Courses\03.OOPWinter2014\03.Extension-Methods-Delegates\Extension-Methods-Delegates-HW\01.StrBuilderExtensionsMethods\obj\Debug\01.StrBuilderExtensionsMethods.pdb

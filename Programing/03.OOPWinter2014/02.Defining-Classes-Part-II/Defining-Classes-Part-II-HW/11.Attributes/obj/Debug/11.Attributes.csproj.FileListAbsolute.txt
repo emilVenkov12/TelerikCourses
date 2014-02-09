@@ -1,0 +1,6 @@
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\11.Attributes\bin\Debug\11.Attributes.exe.config
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\11.Attributes\bin\Debug\11.Attributes.exe
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\11.Attributes\bin\Debug\11.Attributes.pdb
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\11.Attributes\obj\Debug\11.Attributes.csprojResolveAssemblyReference.cache
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\11.Attributes\obj\Debug\11.Attributes.exe
+D:\Courses\03.OOPWinter2014\02.Defining-Classes-Part-II\Defining-Classes-Part-II-HW\11.Attributes\obj\Debug\11.Attributes.pdb

@@ -1,0 +1,6 @@
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\04.Fire\bin\Debug\04.Fire.exe.config
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\04.Fire\bin\Debug\04.Fire.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\04.Fire\bin\Debug\04.Fire.pdb
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\04.Fire\obj\Debug\04.Fire.exe
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\04.Fire\obj\Debug\04.Fire.pdb
+D:\Courses\CSharpPart1Fall2013\08.ExamPrep\Exam-1@23-June-2013\04.Fire\obj\Debug\04.Fire.csprojResolveAssemblyReference.cache

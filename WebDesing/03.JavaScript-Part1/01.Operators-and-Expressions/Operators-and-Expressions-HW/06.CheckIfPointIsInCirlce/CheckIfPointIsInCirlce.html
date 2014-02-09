@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title></title>
+	<link href="styles/js-console.css" rel="stylesheet" />
+	<script src="scripts/checkIfPointIsInCirlce.js"></script>
+</head>
+<body>
+	<p>Write an expression that checks if given print (x,  y) is within a circle K(O, 5).</p>
+	<label for="inputPointX">Enter point X: </label>
+	<input type="text" id="inputPointX" value = "1">
+	<label for="inputPointY">Enter point Y: </label>
+	<input type="text" id="inputPointY" value = "1">
+	<button onClick="checkIfPointIsInCirlce(document.getElementById('inputPointX').value,
+		document.getElementById('inputPointY').value)">Check point!</button>
+
+	<div id="js-console"></div>
+	<script src="scripts/js-console.js"></script>
+	
+</body>
+</html>

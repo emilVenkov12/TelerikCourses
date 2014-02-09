@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\07.ReversNumberDigits\bin\Debug\07.ReversNumberDigits.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\07.ReversNumberDigits\bin\Debug\07.ReversNumberDigits.exe
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\07.ReversNumberDigits\bin\Debug\07.ReversNumberDigits.pdb
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\07.ReversNumberDigits\obj\Debug\07.ReversNumberDigits.exe
+D:\Courses\CSharpPart2Winter2013-2014\03.Methods\03.Methods-HW\07.ReversNumberDigits\obj\Debug\07.ReversNumberDigits.pdb

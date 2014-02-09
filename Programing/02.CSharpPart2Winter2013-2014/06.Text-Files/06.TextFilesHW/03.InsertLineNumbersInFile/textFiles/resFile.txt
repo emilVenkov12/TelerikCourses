@@ -1,0 +1,45 @@
+1  namespace _03.InsertLineNumbersInFile
+2  {
+3      using System;
+4      using System.IO;
+5  
+6      class InsertLineNumbersInFile
+7      {
+8          //03.Write a program that reads a text file and inserts line numbers 
+9          //in front of each of its lines. The result should be written to another text file.
+10  
+11          static void Main()
+12          {
+13              using (StreamReader sr = new StreamReader("../../InsertLineNumbersInFile.cs"))
+14              {
+15                  using (StreamWriter swResFile = new StreamWriter(@"../../textFiles\resFile.txt"))
+16                  {
+17                      string line = sr.ReadLine();
+18                      int lineNumber = 1;
+19                      while (line != null)
+20                      {
+21                          swResFile.WriteLine("{0}  {1}", lineNumber, line);
+22                          lineNumber++;
+23                          line = sr.ReadLine();
+24                      }
+25                      try
+26                      {
+27                          OpenFile(@"../../textFiles\resFile.txt");
+28                      }
+29                      catch (FileNotFoundException e)
+30                      {
+31                          Console.WriteLine("A problem occurs while trying to open the file, {0}", e.Message);
+32                      }
+33                  }
+34              }
+35          }
+36          public static void OpenFile(string fileName)
+37          {
+38              if (!File.Exists(fileName))
+39              {
+40                  throw new FileNotFoundException();
+41              }
+42              System.Diagnostics.Process.Start(fileName);
+43          }
+44      }
+45  }

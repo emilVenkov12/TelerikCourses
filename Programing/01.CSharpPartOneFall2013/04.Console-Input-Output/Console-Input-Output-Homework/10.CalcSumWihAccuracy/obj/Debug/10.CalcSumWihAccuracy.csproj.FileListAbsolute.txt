@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\10.CalcSumWihAccuracy\bin\Debug\10.CalcSumWihAccuracy.exe.config
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\10.CalcSumWihAccuracy\bin\Debug\10.CalcSumWihAccuracy.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\10.CalcSumWihAccuracy\bin\Debug\10.CalcSumWihAccuracy.pdb
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\10.CalcSumWihAccuracy\obj\Debug\10.CalcSumWihAccuracy.exe
+D:\Courses\CSharpPart1Fall2013\04.Console-Input-Output\Console-Input-Output-Homework\10.CalcSumWihAccuracy\obj\Debug\10.CalcSumWihAccuracy.pdb

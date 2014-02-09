@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\23.ReplaceChars\bin\Debug\23.ReplaceChars.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\23.ReplaceChars\bin\Debug\23.ReplaceChars.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\23.ReplaceChars\bin\Debug\23.ReplaceChars.pdb
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\23.ReplaceChars\obj\Debug\23.ReplaceChars.exe
+D:\Courses\CSharpPart2Winter2013-2014\08.Strings-and-Text-Processing\08.StringsAndTextProcessingHW\23.ReplaceChars\obj\Debug\23.ReplaceChars.pdb

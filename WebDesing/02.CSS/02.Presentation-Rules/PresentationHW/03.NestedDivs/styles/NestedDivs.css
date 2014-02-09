@@ -1,0 +1,12 @@
+/* CSS Document */
+/*Try it with border color like this on your browser background (white in most cases)*/
+div{
+	border:#FF0000 solid 2px;
+	background-color:#000000;
+	border-radius:200px;
+	padding-right:3%;
+}
+/*#hide{
+	display:none;
+}*/
+/*In case you want the figure to look exactly like this from task*/

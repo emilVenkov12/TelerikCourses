@@ -1,0 +1,5 @@
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\21.GenAllCombinationsK\bin\Debug\21.GenAllCombinationsK.exe.config
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\21.GenAllCombinationsK\bin\Debug\21.GenAllCombinationsK.exe
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\21.GenAllCombinationsK\bin\Debug\21.GenAllCombinationsK.pdb
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\21.GenAllCombinationsK\obj\Debug\21.GenAllCombinationsK.exe
+D:\Courses\CSharpPart2Winter2013-2014\01.Arrays\01.Arrays-Homework\21.GenAllCombinationsK\obj\Debug\21.GenAllCombinationsK.pdb
