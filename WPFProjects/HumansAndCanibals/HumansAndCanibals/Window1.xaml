@@ -1,0 +1,9 @@
+﻿<Window x:Class="HumansAndCanibals.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:Views="clr-namespace:HumansAndCanibals.Views"
+    Title="Window1" Height="500" Width="950">
+    <Grid>
+        <Views:CannibalsAndMissionariesGame/>
+    </Grid>
+</Window>
